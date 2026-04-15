@@ -79,15 +79,15 @@ The selection of the embedding model for Stage 1 was not arbitrary. Because the 
 | LaBSE | Cross-lingual (translation) | ✗ |
 | **paraphrase-multilingual-mpnet-base-v2** | **Multilingual paraphrase** | **✓** |
  
-`paraphrase-multilingual-mpnet-base-v2` consistently outperformed all alternatives. It is the only model in the benchmark explicitly trained for semantic paraphrase alignment across 50+ languages, which is exactly the capability required to match a short French column label to a multi-sentence English ontological scope note. This benchmark was omitted from the published paper due to space constraints; full results are available in this repository.
+`paraphrase-multilingual-mpnet-base-v2` consistently outperformed all alternatives. It is the only model in the benchmark explicitly trained for semantic paraphrase alignment across 50+ languages, which is exactly the capability required to match a short French column label to a multi-sentence English ontological scope note. This benchmark was omitted from the submitted paper due to space constraints; full results are available in this repository.
  
 → [`docs/EMBEDDING_BENCHMARK.md`](docs/EMBEDDING_BENCHMARK.md)
 
 ## Environmental Impact
  
-The computational cost of LLM-based ontology population is non-trivial, particularly for commercial cloud models. We measured the carbon footprint of all inference runs conducted during evaluation, covering both GPT-4o (cloud) and Llama 4 Scout (local institutional server), using the CodeCarbon framework. Emissions are reported in grams of CO₂ equivalent (gCO₂eq) per dataset and per model configuration.
+The computational cost of LLM-based ontology population is non-trivial, particularly for commercial cloud models. We measured the carbon footprint of all LLM inference runs using [EcoLogits](https://ecologits.ai/latest/). GPT-4o produces approximately **43.90 gCO₂eq** for the full evaluation, compared to **4.99 gCO₂eq** for Llama 4 Scout, a nine-fold difference for the same 22-request workload.
  
-These estimates were omitted from the published paper due to space constraints. Full measurements, methodology, and the tracking code are available in this repository.
+These measurements were omitted from the submitted paper due to space constraints. Full results and discussion are available in this repository.
  
 → [`docs/CARBON_EMISSIONS.md`](docs/CARBON_EMISSIONS.md)
 
