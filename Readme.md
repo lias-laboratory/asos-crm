@@ -17,7 +17,28 @@ ASOS-CRM addresses this bottleneck through a two-stage approach:
 
 The union of valid triplets across all columns forms the **ontological scope S**, which replaces the full ontology as context for LLM annotation.
 
-<!-- ![ASOS-CRM pipeline overview](docs/figures/pipeline_overview.png) -->
+
+## Repository Structure
+ 
+```
+asos-crm/
+├── data/
+│   ├── input/                        # Input CSV datasets (not included)
+│   ├── cidoc_classes.txt             # CIDOC-CRM class registry (label + scope note)
+│   ├── cidoc_properties.txt          # CIDOC-CRM property registry (label + domain/range)
+│   ├── CIDOC_CRM_v7.1.3.owl          # CIDOC-CRM OWL ontology
+│   └── CIDOC_CRM_v7.1.3.rdf          # CIDOC-CRM RDF ontology (subClassOf extraction)
+├── docs/
+│   ├── EMBEDDING_BENCHMARK.md        # Full embedding model benchmark results
+│   └── CARBON_EMISSIONS.md           # LLM inference carbon footprint measurements
+├── Experiment/
+│   └── asos_crm_pipeline.ipynb       # Main experiment notebook (see below)
+├── results/                          # Pipeline outputs (generated at runtime)
+├── AUTHORS
+├── LICENSE
+└── Readme.md
+```
+
 
 ## Features
 
@@ -41,32 +62,36 @@ c_s ⊑ D(p)  and  c_o ⊑ R(p)
 
 where ⊑ denotes subsumption in the CIDOC CRM class hierarchy. Only triplets satisfying both constraints are retained. When no valid triplet is found for a column, K is incremented by 1 and the search is retried (adaptive expansion).
 
-## Prerequisites
+## Configuration
+ 
+All user-facing parameters are collected in the first notebook cell:
+ 
+```python
+# Expert descriptions (set USE_COLUMN_DESCRIPTIONS = False for baseline mode)
+COLUMN_DESCRIPTIONS = {
+    "column_name": "Natural-language description of the column's content.",
+    ...
+}
 
+INPUT_CSV_FILES = ["../data/input/your_dataset.csv"]
+```
+
+## Prerequisites
+ 
 - Python 3.9 or higher
 - At least 8 GB RAM recommended for embedding model loading
+## Usage
+ 
+No installation step is required. Open the notebook directly:
+ 
+```
+Experiment/asos_crm_pipeline.ipynb
+```
+ 
+1. Place your input CSV files in `data/input/`.
+2. Edit the **Configuration** cell (the first cell) to set `INPUT_CSV_FILES`, `COLUMN_DESCRIPTIONS`, and `USE_COLUMN_DESCRIPTIONS`.
+3. Run all cells in order. The pipeline will automatically determine the optimal `(k_classes, k_properties)` and write all results to `results/`.
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/lias-laboratory/asos-crm
-   cd asos-crm
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Configure API credentials and paths in `config.py`:
-
-   ```python
-   OPENAI_API_KEY = "your-api-key-here"
-   CIDOC_CRM_OWL  = "data/ontologies/cidoc_crm.owl"
-   ```
 
 ## Embedding Model Selection
  
