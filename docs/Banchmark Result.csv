@@ -1,0 +1,1601 @@
+Column,Model,Class_Code,Prop_Code,Valid,Class_Score,Prop_Score,accept
+n° US,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P142_used_constituent,✗,"0,4832","0,6817",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P108_has_produced,✗,"0,4832","0,5976",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P1_is_identified_by,✓,"0,4832","0,571",✓
+n° US,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P126_employed,✗,"0,4832","0,5705",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P136_was_based_on,✗,"0,4832","0,5613",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P186_produced_thing_of_product_type,✗,"0,4832","0,5595",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P35_has_identified,✗,"0,4832","0,5587",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P92_brought_into_existence,✗,"0,4832","0,5532",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P91_has_unit,✗,"0,4832","0,5501",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P65_shows_visual_item,✗,"0,4832","0,5465",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E58_Measurement_Unit,P142_used_constituent,✗,"0,4565","0,6817",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E58_Measurement_Unit,P108_has_produced,✗,"0,4565","0,5976",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E58_Measurement_Unit,P1_is_identified_by,✗,"0,4565","0,571",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E58_Measurement_Unit,P126_employed,✗,"0,4565","0,5705",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E58_Measurement_Unit,P136_was_based_on,✗,"0,4565","0,5613",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E58_Measurement_Unit,P186_produced_thing_of_product_type,✗,"0,4565","0,5595",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E58_Measurement_Unit,P35_has_identified,✗,"0,4565","0,5587",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E58_Measurement_Unit,P92_brought_into_existence,✗,"0,4565","0,5532",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E58_Measurement_Unit,P91_has_unit,✗,"0,4565","0,5501",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E58_Measurement_Unit,P65_shows_visual_item,✗,"0,4565","0,5465",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E35_Title,P142_used_constituent,✗,"0,4331","0,6817",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E35_Title,P108_has_produced,✗,"0,4331","0,5976",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E35_Title,P1_is_identified_by,✓,"0,4331","0,571",✓
+n° US,paraphrase-multilingual-mpnet-base-v2,E35_Title,P126_employed,✗,"0,4331","0,5705",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E35_Title,P136_was_based_on,✗,"0,4331","0,5613",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E35_Title,P186_produced_thing_of_product_type,✗,"0,4331","0,5595",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E35_Title,P35_has_identified,✗,"0,4331","0,5587",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E35_Title,P92_brought_into_existence,✗,"0,4331","0,5532",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E35_Title,P91_has_unit,✗,"0,4331","0,5501",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E35_Title,P65_shows_visual_item,✗,"0,4331","0,5465",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P142_used_constituent,✗,"0,4282","0,6817",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P108_has_produced,✗,"0,4282","0,5976",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P1_is_identified_by,✗,"0,4282","0,571",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P126_employed,✗,"0,4282","0,5705",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P136_was_based_on,✗,"0,4282","0,5613",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P186_produced_thing_of_product_type,✗,"0,4282","0,5595",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P35_has_identified,✗,"0,4282","0,5587",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P92_brought_into_existence,✗,"0,4282","0,5532",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P91_has_unit,✗,"0,4282","0,5501",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P65_shows_visual_item,✓,"0,4282","0,5465",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P142_used_constituent,✗,"0,4273","0,6817",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P108_has_produced,✗,"0,4273","0,5976",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P1_is_identified_by,✗,"0,4273","0,571",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P126_employed,✗,"0,4273","0,5705",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P136_was_based_on,✗,"0,4273","0,5613",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P186_produced_thing_of_product_type,✗,"0,4273","0,5595",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P35_has_identified,✗,"0,4273","0,5587",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P92_brought_into_existence,✗,"0,4273","0,5532",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P91_has_unit,✗,"0,4273","0,5501",✗
+n° US,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P65_shows_visual_item,✗,"0,4273","0,5465",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E53_Place,P168_place_is_defined_by,✗,"0,4864","0,6376",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E53_Place,P171_at_some_place_within,✗,"0,4864","0,5949",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E53_Place,P53_has_former_or_current_location,✓,"0,4864","0,5826",✓
+Localisation,paraphrase-multilingual-mpnet-base-v2,E53_Place,P46_is_composed_of,✗,"0,4864","0,5811",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E53_Place,P126_employed,✗,"0,4864","0,58",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E53_Place,P91_has_unit,✗,"0,4864","0,5783",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E53_Place,P108_has_produced,✗,"0,4864","0,576",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E53_Place,P45_consists_of,✗,"0,4864","0,5757",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E53_Place,P7_took_place_at,✗,"0,4864","0,5732",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E53_Place,P89_falls_within,✗,"0,4864","0,5693",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E27_Site,P168_place_is_defined_by,✗,"0,4725","0,6376",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E27_Site,P171_at_some_place_within,✗,"0,4725","0,5949",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E27_Site,P53_has_former_or_current_location,✗,"0,4725","0,5826",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E27_Site,P46_is_composed_of,✓,"0,4725","0,5811",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E27_Site,P126_employed,✗,"0,4725","0,58",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E27_Site,P91_has_unit,✗,"0,4725","0,5783",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E27_Site,P108_has_produced,✗,"0,4725","0,576",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E27_Site,P45_consists_of,✗,"0,4725","0,5757",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E27_Site,P7_took_place_at,✗,"0,4725","0,5732",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E27_Site,P89_falls_within,✗,"0,4725","0,5693",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E9_Move,P168_place_is_defined_by,✗,"0,4181","0,6376",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E9_Move,P171_at_some_place_within,✗,"0,4181","0,5949",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E9_Move,P53_has_former_or_current_location,✗,"0,4181","0,5826",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E9_Move,P46_is_composed_of,✗,"0,4181","0,5811",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E9_Move,P126_employed,✗,"0,4181","0,58",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E9_Move,P91_has_unit,✗,"0,4181","0,5783",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E9_Move,P108_has_produced,✗,"0,4181","0,576",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E9_Move,P45_consists_of,✗,"0,4181","0,5757",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E9_Move,P7_took_place_at,✗,"0,4181","0,5732",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E9_Move,P89_falls_within,✗,"0,4181","0,5693",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P168_place_is_defined_by,✗,"0,321","0,6376",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P171_at_some_place_within,✗,"0,321","0,5949",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P53_has_former_or_current_location,✗,"0,321","0,5826",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P46_is_composed_of,✓,"0,321","0,5811",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P126_employed,✗,"0,321","0,58",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P91_has_unit,✗,"0,321","0,5783",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P108_has_produced,✗,"0,321","0,576",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P45_consists_of,✗,"0,321","0,5757",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P7_took_place_at,✗,"0,321","0,5732",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P89_falls_within,✗,"0,321","0,5693",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E36_Visual_Item,P168_place_is_defined_by,✗,"0,3084","0,6376",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E36_Visual_Item,P171_at_some_place_within,✗,"0,3084","0,5949",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E36_Visual_Item,P53_has_former_or_current_location,✗,"0,3084","0,5826",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E36_Visual_Item,P46_is_composed_of,✗,"0,3084","0,5811",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E36_Visual_Item,P126_employed,✗,"0,3084","0,58",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E36_Visual_Item,P91_has_unit,✗,"0,3084","0,5783",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E36_Visual_Item,P108_has_produced,✗,"0,3084","0,576",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E36_Visual_Item,P45_consists_of,✗,"0,3084","0,5757",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E36_Visual_Item,P7_took_place_at,✗,"0,3084","0,5732",✗
+Localisation,paraphrase-multilingual-mpnet-base-v2,E36_Visual_Item,P89_falls_within,✗,"0,3084","0,5693",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E53_Place,P171_at_some_place_within,✗,"0,4116","0,645",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E53_Place,P172_contains,✗,"0,4116","0,6068",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E53_Place,P133_is_spatiotemporally_separated_from,✗,"0,4116","0,5994",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E53_Place,P132_spatiotemporally_overlaps_with,✗,"0,4116","0,5958",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E53_Place,P161_has_spatial_projection,✗,"0,4116","0,582",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E53_Place,P167_was_within,✗,"0,4116","0,5602",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E53_Place,P196_defines,✗,"0,4116","0,5564",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E53_Place,P168_place_is_defined_by,✗,"0,4116","0,5558",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E53_Place,P156_occupies,✓,"0,4116","0,5551",✓
+Etendue,paraphrase-multilingual-mpnet-base-v2,E53_Place,P89_falls_within,✗,"0,4116","0,5525",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E27_Site,P171_at_some_place_within,✗,"0,4096","0,645",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E27_Site,P172_contains,✗,"0,4096","0,6068",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E27_Site,P133_is_spatiotemporally_separated_from,✗,"0,4096","0,5994",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E27_Site,P132_spatiotemporally_overlaps_with,✗,"0,4096","0,5958",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E27_Site,P161_has_spatial_projection,✗,"0,4096","0,582",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E27_Site,P167_was_within,✗,"0,4096","0,5602",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E27_Site,P196_defines,✗,"0,4096","0,5564",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E27_Site,P168_place_is_defined_by,✗,"0,4096","0,5558",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E27_Site,P156_occupies,✗,"0,4096","0,5551",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E27_Site,P89_falls_within,✗,"0,4096","0,5525",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E92_Spacetime_Volume,P171_at_some_place_within,✗,"0,394","0,645",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E92_Spacetime_Volume,P172_contains,✗,"0,394","0,6068",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E92_Spacetime_Volume,P133_is_spatiotemporally_separated_from,✗,"0,394","0,5994",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E92_Spacetime_Volume,P132_spatiotemporally_overlaps_with,✗,"0,394","0,5958",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E92_Spacetime_Volume,P161_has_spatial_projection,✗,"0,394","0,582",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E92_Spacetime_Volume,P167_was_within,✗,"0,394","0,5602",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E92_Spacetime_Volume,P196_defines,✓,"0,394","0,5564",✓
+Etendue,paraphrase-multilingual-mpnet-base-v2,E92_Spacetime_Volume,P168_place_is_defined_by,✗,"0,394","0,5558",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E92_Spacetime_Volume,P156_occupies,✗,"0,394","0,5551",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E92_Spacetime_Volume,P89_falls_within,✗,"0,394","0,5525",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E52_Time-Span,P171_at_some_place_within,✗,"0,3712","0,645",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E52_Time-Span,P172_contains,✗,"0,3712","0,6068",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E52_Time-Span,P133_is_spatiotemporally_separated_from,✗,"0,3712","0,5994",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E52_Time-Span,P132_spatiotemporally_overlaps_with,✗,"0,3712","0,5958",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E52_Time-Span,P161_has_spatial_projection,✗,"0,3712","0,582",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E52_Time-Span,P167_was_within,✗,"0,3712","0,5602",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E52_Time-Span,P196_defines,✗,"0,3712","0,5564",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E52_Time-Span,P168_place_is_defined_by,✗,"0,3712","0,5558",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E52_Time-Span,P156_occupies,✗,"0,3712","0,5551",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E52_Time-Span,P89_falls_within,✗,"0,3712","0,5525",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E93_Presence,P171_at_some_place_within,✗,"0,3315","0,645",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E93_Presence,P172_contains,✗,"0,3315","0,6068",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E93_Presence,P133_is_spatiotemporally_separated_from,✗,"0,3315","0,5994",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E93_Presence,P132_spatiotemporally_overlaps_with,✗,"0,3315","0,5958",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E93_Presence,P161_has_spatial_projection,✗,"0,3315","0,582",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E93_Presence,P167_was_within,✗,"0,3315","0,5602",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E93_Presence,P196_defines,✓,"0,3315","0,5564",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E93_Presence,P168_place_is_defined_by,✗,"0,3315","0,5558",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E93_Presence,P156_occupies,✗,"0,3315","0,5551",✗
+Etendue,paraphrase-multilingual-mpnet-base-v2,E93_Presence,P89_falls_within,✗,"0,3315","0,5525",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P142_used_constituent,✗,"0,4442","0,6549",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P108_has_produced,✗,"0,4442","0,6112",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P92_brought_into_existence,✗,"0,4442","0,5928",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P35_has_identified,✗,"0,4442","0,5815",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P126_employed,✗,"0,4442","0,571",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P136_was_based_on,✗,"0,4442","0,563",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P1_is_identified_by,✓,"0,4442","0,5527",✓
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P186_produced_thing_of_product_type,✗,"0,4442","0,5513",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P65_shows_visual_item,✗,"0,4442","0,55",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P164_is_temporally_specified_by,✗,"0,4442","0,5489",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P142_used_constituent,✗,"0,4095","0,6549",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P108_has_produced,✗,"0,4095","0,6112",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P92_brought_into_existence,✗,"0,4095","0,5928",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P35_has_identified,✗,"0,4095","0,5815",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P126_employed,✗,"0,4095","0,571",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P136_was_based_on,✗,"0,4095","0,563",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P1_is_identified_by,✓,"0,4095","0,5527",✓
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P186_produced_thing_of_product_type,✗,"0,4095","0,5513",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P65_shows_visual_item,✗,"0,4095","0,55",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P164_is_temporally_specified_by,✗,"0,4095","0,5489",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P142_used_constituent,✗,"0,4083","0,6549",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P108_has_produced,✗,"0,4083","0,6112",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P92_brought_into_existence,✗,"0,4083","0,5928",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P35_has_identified,✗,"0,4083","0,5815",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P126_employed,✗,"0,4083","0,571",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P136_was_based_on,✗,"0,4083","0,563",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P1_is_identified_by,✗,"0,4083","0,5527",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P186_produced_thing_of_product_type,✗,"0,4083","0,5513",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P65_shows_visual_item,✓,"0,4083","0,55",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P164_is_temporally_specified_by,✗,"0,4083","0,5489",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P142_used_constituent,✗,"0,3757","0,6549",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P108_has_produced,✗,"0,3757","0,6112",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P92_brought_into_existence,✗,"0,3757","0,5928",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P35_has_identified,✗,"0,3757","0,5815",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P126_employed,✗,"0,3757","0,571",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P136_was_based_on,✗,"0,3757","0,563",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P1_is_identified_by,✗,"0,3757","0,5527",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P186_produced_thing_of_product_type,✗,"0,3757","0,5513",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P65_shows_visual_item,✗,"0,3757","0,55",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E90_Symbolic_Object,P164_is_temporally_specified_by,✗,"0,3757","0,5489",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E15_Identifier_Assignment,P142_used_constituent,✗,"0,356","0,6549",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E15_Identifier_Assignment,P108_has_produced,✗,"0,356","0,6112",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E15_Identifier_Assignment,P92_brought_into_existence,✗,"0,356","0,5928",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E15_Identifier_Assignment,P35_has_identified,✗,"0,356","0,5815",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E15_Identifier_Assignment,P126_employed,✗,"0,356","0,571",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E15_Identifier_Assignment,P136_was_based_on,✗,"0,356","0,563",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E15_Identifier_Assignment,P1_is_identified_by,✗,"0,356","0,5527",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E15_Identifier_Assignment,P186_produced_thing_of_product_type,✗,"0,356","0,5513",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E15_Identifier_Assignment,P65_shows_visual_item,✗,"0,356","0,55",✗
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E15_Identifier_Assignment,P164_is_temporally_specified_by,✗,"0,356","0,5489",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P108_has_produced,✗,"0,4083","0,6473",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P142_used_constituent,✗,"0,4083","0,6146",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P126_employed,✗,"0,4083","0,6102",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P92_brought_into_existence,✗,"0,4083","0,6098",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P103_was_intended_for,✗,"0,4083","0,6065",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P39_measured,✗,"0,4083","0,5921",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P31_has_modified,✗,"0,4083","0,5876",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P136_was_based_on,✗,"0,4083","0,585",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P34_concerned,✗,"0,4083","0,5836",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E37_Mark,P35_has_identified,✗,"0,4083","0,5772",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E31_Document,P108_has_produced,✗,"0,4056","0,6473",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E31_Document,P142_used_constituent,✗,"0,4056","0,6146",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E31_Document,P126_employed,✗,"0,4056","0,6102",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E31_Document,P92_brought_into_existence,✗,"0,4056","0,6098",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E31_Document,P103_was_intended_for,✗,"0,4056","0,6065",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E31_Document,P39_measured,✗,"0,4056","0,5921",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E31_Document,P31_has_modified,✗,"0,4056","0,5876",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E31_Document,P136_was_based_on,✗,"0,4056","0,585",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E31_Document,P34_concerned,✗,"0,4056","0,5836",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E31_Document,P35_has_identified,✗,"0,4056","0,5772",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P108_has_produced,✗,"0,4017","0,6473",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P142_used_constituent,✗,"0,4017","0,6146",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P126_employed,✗,"0,4017","0,6102",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P92_brought_into_existence,✗,"0,4017","0,6098",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P103_was_intended_for,✗,"0,4017","0,6065",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P39_measured,✗,"0,4017","0,5921",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P31_has_modified,✗,"0,4017","0,5876",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P136_was_based_on,✗,"0,4017","0,585",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P34_concerned,✗,"0,4017","0,5836",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P35_has_identified,✗,"0,4017","0,5772",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P108_has_produced,✗,"0,3932","0,6473",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P142_used_constituent,✗,"0,3932","0,6146",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P126_employed,✗,"0,3932","0,6102",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P92_brought_into_existence,✗,"0,3932","0,6098",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P103_was_intended_for,✗,"0,3932","0,6065",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P39_measured,✗,"0,3932","0,5921",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P31_has_modified,✗,"0,3932","0,5876",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P136_was_based_on,✗,"0,3932","0,585",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P34_concerned,✗,"0,3932","0,5836",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P35_has_identified,✗,"0,3932","0,5772",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E65_Creation,P108_has_produced,✗,"0,3907","0,6473",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E65_Creation,P142_used_constituent,✗,"0,3907","0,6146",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E65_Creation,P126_employed,✗,"0,3907","0,6102",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E65_Creation,P92_brought_into_existence,✗,"0,3907","0,6098",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E65_Creation,P103_was_intended_for,✗,"0,3907","0,6065",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E65_Creation,P39_measured,✗,"0,3907","0,5921",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E65_Creation,P31_has_modified,✗,"0,3907","0,5876",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E65_Creation,P136_was_based_on,✗,"0,3907","0,585",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E65_Creation,P34_concerned,✗,"0,3907","0,5836",✗
+Postérieur à,paraphrase-multilingual-mpnet-base-v2,E65_Creation,P35_has_identified,✗,"0,3907","0,5772",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E31_Document,P108_has_produced,✗,"0,2309","0,6642",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E31_Document,P126_employed,✗,"0,2309","0,6539",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E31_Document,P142_used_constituent,✗,"0,2309","0,6535",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E31_Document,P92_brought_into_existence,✗,"0,2309","0,6212",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E31_Document,P103_was_intended_for,✗,"0,2309","0,6201",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E31_Document,P31_has_modified,✗,"0,2309","0,6159",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E31_Document,P94_has_created,✗,"0,2309","0,6035",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E31_Document,P186_produced_thing_of_product_type,✗,"0,2309","0,6023",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E31_Document,P123_resulted_in,✗,"0,2309","0,5949",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E31_Document,P104_is_subject_to,✗,"0,2309","0,5946",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E70_Thing,P108_has_produced,✗,"0,2004","0,6642",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E70_Thing,P126_employed,✗,"0,2004","0,6539",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E70_Thing,P142_used_constituent,✗,"0,2004","0,6535",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E70_Thing,P92_brought_into_existence,✗,"0,2004","0,6212",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E70_Thing,P103_was_intended_for,✗,"0,2004","0,6201",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E70_Thing,P31_has_modified,✗,"0,2004","0,6159",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E70_Thing,P94_has_created,✗,"0,2004","0,6035",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E70_Thing,P186_produced_thing_of_product_type,✗,"0,2004","0,6023",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E70_Thing,P123_resulted_in,✗,"0,2004","0,5949",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E70_Thing,P104_is_subject_to,✗,"0,2004","0,5946",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P108_has_produced,✗,"0,1924","0,6642",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P126_employed,✗,"0,1924","0,6539",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P142_used_constituent,✗,"0,1924","0,6535",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P92_brought_into_existence,✗,"0,1924","0,6212",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P103_was_intended_for,✗,"0,1924","0,6201",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P31_has_modified,✗,"0,1924","0,6159",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P94_has_created,✗,"0,1924","0,6035",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P186_produced_thing_of_product_type,✗,"0,1924","0,6023",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P123_resulted_in,✗,"0,1924","0,5949",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P104_is_subject_to,✗,"0,1924","0,5946",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E28_Conceptual_Object,P108_has_produced,✗,"0,1918","0,6642",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E28_Conceptual_Object,P126_employed,✗,"0,1918","0,6539",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E28_Conceptual_Object,P142_used_constituent,✗,"0,1918","0,6535",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E28_Conceptual_Object,P92_brought_into_existence,✗,"0,1918","0,6212",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E28_Conceptual_Object,P103_was_intended_for,✗,"0,1918","0,6201",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E28_Conceptual_Object,P31_has_modified,✗,"0,1918","0,6159",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E28_Conceptual_Object,P94_has_created,✗,"0,1918","0,6035",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E28_Conceptual_Object,P186_produced_thing_of_product_type,✗,"0,1918","0,6023",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E28_Conceptual_Object,P123_resulted_in,✗,"0,1918","0,5949",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E28_Conceptual_Object,P104_is_subject_to,✗,"0,1918","0,5946",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E89_Propositional_Object,P108_has_produced,✗,"0,1846","0,6642",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E89_Propositional_Object,P126_employed,✗,"0,1846","0,6539",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E89_Propositional_Object,P142_used_constituent,✗,"0,1846","0,6535",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E89_Propositional_Object,P92_brought_into_existence,✗,"0,1846","0,6212",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E89_Propositional_Object,P103_was_intended_for,✗,"0,1846","0,6201",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E89_Propositional_Object,P31_has_modified,✗,"0,1846","0,6159",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E89_Propositional_Object,P94_has_created,✗,"0,1846","0,6035",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E89_Propositional_Object,P186_produced_thing_of_product_type,✗,"0,1846","0,6023",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E89_Propositional_Object,P123_resulted_in,✗,"0,1846","0,5949",✗
+Egal à ,paraphrase-multilingual-mpnet-base-v2,E89_Propositional_Object,P104_is_subject_to,✗,"0,1846","0,5946",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E3_Condition_State,P123_resulted_in,✗,"0,4808","0,5715",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E3_Condition_State,P44_has_condition,✓,"0,4808","0,5432",✓
+Etat,paraphrase-multilingual-mpnet-base-v2,E3_Condition_State,P142_used_constituent,✗,"0,4808","0,543",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E3_Condition_State,P108_has_produced,✗,"0,4808","0,5411",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E3_Condition_State,P124_transformed,✗,"0,4808","0,5381",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E3_Condition_State,P13_destroyed,✗,"0,4808","0,5286",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E3_Condition_State,P5_consists_of,✗,"0,4808","0,5221",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E3_Condition_State,P126_employed,✗,"0,4808","0,5205",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E3_Condition_State,P35_has_identified,✗,"0,4808","0,517",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E3_Condition_State,P92_brought_into_existence,✗,"0,4808","0,5155",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E14_Condition_Assessment,P123_resulted_in,✗,"0,436","0,5715",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E14_Condition_Assessment,P44_has_condition,✗,"0,436","0,5432",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E14_Condition_Assessment,P142_used_constituent,✗,"0,436","0,543",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E14_Condition_Assessment,P108_has_produced,✗,"0,436","0,5411",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E14_Condition_Assessment,P124_transformed,✗,"0,436","0,5381",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E14_Condition_Assessment,P13_destroyed,✗,"0,436","0,5286",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E14_Condition_Assessment,P5_consists_of,✗,"0,436","0,5221",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E14_Condition_Assessment,P126_employed,✗,"0,436","0,5205",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E14_Condition_Assessment,P35_has_identified,✗,"0,436","0,517",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E14_Condition_Assessment,P92_brought_into_existence,✗,"0,436","0,5155",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E2_Temporal_Entity,P123_resulted_in,✗,"0,3795","0,5715",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E2_Temporal_Entity,P44_has_condition,✗,"0,3795","0,5432",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E2_Temporal_Entity,P142_used_constituent,✗,"0,3795","0,543",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E2_Temporal_Entity,P108_has_produced,✗,"0,3795","0,5411",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E2_Temporal_Entity,P124_transformed,✗,"0,3795","0,5381",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E2_Temporal_Entity,P13_destroyed,✗,"0,3795","0,5286",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E2_Temporal_Entity,P5_consists_of,✗,"0,3795","0,5221",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E2_Temporal_Entity,P126_employed,✗,"0,3795","0,5205",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E2_Temporal_Entity,P35_has_identified,✗,"0,3795","0,517",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E2_Temporal_Entity,P92_brought_into_existence,✗,"0,3795","0,5155",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E4_Period,P123_resulted_in,✗,"0,3718","0,5715",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E4_Period,P44_has_condition,✗,"0,3718","0,5432",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E4_Period,P142_used_constituent,✗,"0,3718","0,543",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E4_Period,P108_has_produced,✗,"0,3718","0,5411",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E4_Period,P124_transformed,✗,"0,3718","0,5381",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E4_Period,P13_destroyed,✗,"0,3718","0,5286",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E4_Period,P5_consists_of,✗,"0,3718","0,5221",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E4_Period,P126_employed,✗,"0,3718","0,5205",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E4_Period,P35_has_identified,✗,"0,3718","0,517",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E4_Period,P92_brought_into_existence,✗,"0,3718","0,5155",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E32_Authority_Document,P123_resulted_in,✗,"0,3633","0,5715",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E32_Authority_Document,P44_has_condition,✗,"0,3633","0,5432",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E32_Authority_Document,P142_used_constituent,✗,"0,3633","0,543",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E32_Authority_Document,P108_has_produced,✗,"0,3633","0,5411",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E32_Authority_Document,P124_transformed,✗,"0,3633","0,5381",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E32_Authority_Document,P13_destroyed,✗,"0,3633","0,5286",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E32_Authority_Document,P5_consists_of,✗,"0,3633","0,5221",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E32_Authority_Document,P126_employed,✗,"0,3633","0,5205",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E32_Authority_Document,P35_has_identified,✗,"0,3633","0,517",✗
+Etat,paraphrase-multilingual-mpnet-base-v2,E32_Authority_Document,P92_brought_into_existence,✗,"0,3633","0,5155",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E24_Physical_Human-Made_Thing,P108_has_produced,✗,"0,3857","0,6016",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E24_Physical_Human-Made_Thing,P45_consists_of,✗,"0,3857","0,5793",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E24_Physical_Human-Made_Thing,P126_employed,✗,"0,3857","0,5641",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E24_Physical_Human-Made_Thing,P186_produced_thing_of_product_type,✗,"0,3857","0,5592",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E24_Physical_Human-Made_Thing,P46_is_composed_of,✓,"0,3857","0,527",✓
+Mortier,paraphrase-multilingual-mpnet-base-v2,E24_Physical_Human-Made_Thing,P39_measured,✗,"0,3857","0,526",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E24_Physical_Human-Made_Thing,P94_has_created,✗,"0,3857","0,5242",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E24_Physical_Human-Made_Thing,P62_depicts,✓,"0,3857","0,5194",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E24_Physical_Human-Made_Thing,P16_used_specific_object,✗,"0,3857","0,5111",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E24_Physical_Human-Made_Thing,P68_foresees_use_of,✗,"0,3857","0,5066",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E57_Material,P108_has_produced,✗,"0,3826","0,6016",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E57_Material,P45_consists_of,✓,"0,3826","0,5793",✓
+Mortier,paraphrase-multilingual-mpnet-base-v2,E57_Material,P126_employed,✗,"0,3826","0,5641",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E57_Material,P186_produced_thing_of_product_type,✗,"0,3826","0,5592",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E57_Material,P46_is_composed_of,✗,"0,3826","0,527",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E57_Material,P39_measured,✗,"0,3826","0,526",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E57_Material,P94_has_created,✗,"0,3826","0,5242",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E57_Material,P62_depicts,✓,"0,3826","0,5194",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E57_Material,P16_used_specific_object,✗,"0,3826","0,5111",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E57_Material,P68_foresees_use_of,✗,"0,3826","0,5066",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P108_has_produced,✗,"0,3628","0,6016",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P45_consists_of,✗,"0,3628","0,5793",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P126_employed,✗,"0,3628","0,5641",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P186_produced_thing_of_product_type,✗,"0,3628","0,5592",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P46_is_composed_of,✓,"0,3628","0,527",✓
+Mortier,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P39_measured,✗,"0,3628","0,526",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P94_has_created,✗,"0,3628","0,5242",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P62_depicts,✓,"0,3628","0,5194",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P16_used_specific_object,✗,"0,3628","0,5111",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P68_foresees_use_of,✗,"0,3628","0,5066",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P108_has_produced,✗,"0,3478","0,6016",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P45_consists_of,✗,"0,3478","0,5793",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P126_employed,✗,"0,3478","0,5641",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P186_produced_thing_of_product_type,✗,"0,3478","0,5592",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P46_is_composed_of,✓,"0,3478","0,527",✓
+Mortier,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P39_measured,✗,"0,3478","0,526",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P94_has_created,✗,"0,3478","0,5242",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P62_depicts,✓,"0,3478","0,5194",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P16_used_specific_object,✗,"0,3478","0,5111",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P68_foresees_use_of,✗,"0,3478","0,5066",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E71_Human-Made_Thing,P108_has_produced,✗,"0,3425","0,6016",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E71_Human-Made_Thing,P45_consists_of,✗,"0,3425","0,5793",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E71_Human-Made_Thing,P126_employed,✗,"0,3425","0,5641",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E71_Human-Made_Thing,P186_produced_thing_of_product_type,✗,"0,3425","0,5592",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E71_Human-Made_Thing,P46_is_composed_of,✗,"0,3425","0,527",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E71_Human-Made_Thing,P39_measured,✗,"0,3425","0,526",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E71_Human-Made_Thing,P94_has_created,✗,"0,3425","0,5242",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E71_Human-Made_Thing,P62_depicts,✓,"0,3425","0,5194",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E71_Human-Made_Thing,P16_used_specific_object,✗,"0,3425","0,5111",✗
+Mortier,paraphrase-multilingual-mpnet-base-v2,E71_Human-Made_Thing,P68_foresees_use_of,✗,"0,3425","0,5066",✗
+n° US,LaBSE,E42_Identifier,P108_has_produced,✗,"0,4053","0,5978",✗
+n° US,LaBSE,E42_Identifier,P142_used_constituent,✗,"0,4053","0,5703",✗
+n° US,LaBSE,E42_Identifier,P186_produced_thing_of_product_type,✗,"0,4053","0,5616",✗
+n° US,LaBSE,E42_Identifier,P48_has_preferred_identifier,✓,"0,4053","0,5219",✓
+n° US,LaBSE,E42_Identifier,P126_employed,✗,"0,4053","0,5139",✗
+n° US,LaBSE,E42_Identifier,P4_has_time-span,✗,"0,4053","0,5128",✗
+n° US,LaBSE,E42_Identifier,P42_assigned,✗,"0,4053","0,5121",✗
+n° US,LaBSE,E42_Identifier,P102_has_title,✗,"0,4053","0,5081",✗
+n° US,LaBSE,E42_Identifier,P41_classified,✗,"0,4053","0,5074",✗
+n° US,LaBSE,E42_Identifier,P164_is_temporally_specified_by,✗,"0,4053","0,5029",✗
+n° US,LaBSE,E90_Symbolic_Object,P108_has_produced,✗,"0,3663","0,5978",✗
+n° US,LaBSE,E90_Symbolic_Object,P142_used_constituent,✗,"0,3663","0,5703",✗
+n° US,LaBSE,E90_Symbolic_Object,P186_produced_thing_of_product_type,✗,"0,3663","0,5616",✗
+n° US,LaBSE,E90_Symbolic_Object,P48_has_preferred_identifier,✗,"0,3663","0,5219",✗
+n° US,LaBSE,E90_Symbolic_Object,P126_employed,✗,"0,3663","0,5139",✗
+n° US,LaBSE,E90_Symbolic_Object,P4_has_time-span,✗,"0,3663","0,5128",✗
+n° US,LaBSE,E90_Symbolic_Object,P42_assigned,✗,"0,3663","0,5121",✗
+n° US,LaBSE,E90_Symbolic_Object,P102_has_title,✗,"0,3663","0,5081",✗
+n° US,LaBSE,E90_Symbolic_Object,P41_classified,✗,"0,3663","0,5074",✗
+n° US,LaBSE,E90_Symbolic_Object,P164_is_temporally_specified_by,✗,"0,3663","0,5029",✗
+n° US,LaBSE,E98_Currency,P108_has_produced,✗,"0,361","0,5978",✗
+n° US,LaBSE,E98_Currency,P142_used_constituent,✗,"0,361","0,5703",✗
+n° US,LaBSE,E98_Currency,P186_produced_thing_of_product_type,✗,"0,361","0,5616",✗
+n° US,LaBSE,E98_Currency,P48_has_preferred_identifier,✗,"0,361","0,5219",✗
+n° US,LaBSE,E98_Currency,P126_employed,✗,"0,361","0,5139",✗
+n° US,LaBSE,E98_Currency,P4_has_time-span,✗,"0,361","0,5128",✗
+n° US,LaBSE,E98_Currency,P42_assigned,✗,"0,361","0,5121",✗
+n° US,LaBSE,E98_Currency,P102_has_title,✗,"0,361","0,5081",✗
+n° US,LaBSE,E98_Currency,P41_classified,✗,"0,361","0,5074",✗
+n° US,LaBSE,E98_Currency,P164_is_temporally_specified_by,✗,"0,361","0,5029",✗
+n° US,LaBSE,E70_Thing,P108_has_produced,✗,"0,337","0,5978",✗
+n° US,LaBSE,E70_Thing,P142_used_constituent,✗,"0,337","0,5703",✗
+n° US,LaBSE,E70_Thing,P186_produced_thing_of_product_type,✗,"0,337","0,5616",✗
+n° US,LaBSE,E70_Thing,P48_has_preferred_identifier,✗,"0,337","0,5219",✗
+n° US,LaBSE,E70_Thing,P126_employed,✗,"0,337","0,5139",✗
+n° US,LaBSE,E70_Thing,P4_has_time-span,✗,"0,337","0,5128",✗
+n° US,LaBSE,E70_Thing,P42_assigned,✗,"0,337","0,5121",✗
+n° US,LaBSE,E70_Thing,P102_has_title,✗,"0,337","0,5081",✗
+n° US,LaBSE,E70_Thing,P41_classified,✗,"0,337","0,5074",✗
+n° US,LaBSE,E70_Thing,P164_is_temporally_specified_by,✗,"0,337","0,5029",✗
+n° US,LaBSE,E3_Condition_State,P108_has_produced,✗,"0,3369","0,5978",✗
+n° US,LaBSE,E3_Condition_State,P142_used_constituent,✗,"0,3369","0,5703",✗
+n° US,LaBSE,E3_Condition_State,P186_produced_thing_of_product_type,✗,"0,3369","0,5616",✗
+n° US,LaBSE,E3_Condition_State,P48_has_preferred_identifier,✗,"0,3369","0,5219",✗
+n° US,LaBSE,E3_Condition_State,P126_employed,✗,"0,3369","0,5139",✗
+n° US,LaBSE,E3_Condition_State,P4_has_time-span,✗,"0,3369","0,5128",✗
+n° US,LaBSE,E3_Condition_State,P42_assigned,✗,"0,3369","0,5121",✗
+n° US,LaBSE,E3_Condition_State,P102_has_title,✗,"0,3369","0,5081",✗
+n° US,LaBSE,E3_Condition_State,P41_classified,✗,"0,3369","0,5074",✗
+n° US,LaBSE,E3_Condition_State,P164_is_temporally_specified_by,✗,"0,3369","0,5029",✗
+Localisation,LaBSE,E27_Site,P92_brought_into_existence,✗,"0,3873","0,488",✗
+Localisation,LaBSE,E27_Site,P94_has_created,✗,"0,3873","0,4702",✗
+Localisation,LaBSE,E27_Site,P142_used_constituent,✗,"0,3873","0,4439",✗
+Localisation,LaBSE,E27_Site,P26_moved_to,✗,"0,3873","0,4435",✗
+Localisation,LaBSE,E27_Site,P27_moved_from,✗,"0,3873","0,4426",✗
+Localisation,LaBSE,E27_Site,P86_falls_within,✗,"0,3873","0,442",✗
+Localisation,LaBSE,E27_Site,P13_destroyed,✗,"0,3873","0,4419",✗
+Localisation,LaBSE,E27_Site,P25_moved,✗,"0,3873","0,4396",✗
+Localisation,LaBSE,E27_Site,P53_has_former_or_current_location,✗,"0,3873","0,4384",✗
+Localisation,LaBSE,E27_Site,P56_bears_feature,✓,"0,3873","0,4348",✗
+Localisation,LaBSE,E53_Place,P92_brought_into_existence,✗,"0,3302","0,488",✗
+Localisation,LaBSE,E53_Place,P94_has_created,✗,"0,3302","0,4702",✗
+Localisation,LaBSE,E53_Place,P142_used_constituent,✗,"0,3302","0,4439",✗
+Localisation,LaBSE,E53_Place,P26_moved_to,✗,"0,3302","0,4435",✗
+Localisation,LaBSE,E53_Place,P27_moved_from,✗,"0,3302","0,4426",✗
+Localisation,LaBSE,E53_Place,P86_falls_within,✗,"0,3302","0,442",✗
+Localisation,LaBSE,E53_Place,P13_destroyed,✗,"0,3302","0,4419",✗
+Localisation,LaBSE,E53_Place,P25_moved,✗,"0,3302","0,4396",✗
+Localisation,LaBSE,E53_Place,P53_has_former_or_current_location,✓,"0,3302","0,4384",✓
+Localisation,LaBSE,E53_Place,P56_bears_feature,✗,"0,3302","0,4348",✗
+Localisation,LaBSE,E9_Move,P92_brought_into_existence,✗,"0,3294","0,488",✗
+Localisation,LaBSE,E9_Move,P94_has_created,✗,"0,3294","0,4702",✗
+Localisation,LaBSE,E9_Move,P142_used_constituent,✗,"0,3294","0,4439",✗
+Localisation,LaBSE,E9_Move,P26_moved_to,✗,"0,3294","0,4435",✗
+Localisation,LaBSE,E9_Move,P27_moved_from,✗,"0,3294","0,4426",✗
+Localisation,LaBSE,E9_Move,P86_falls_within,✗,"0,3294","0,442",✗
+Localisation,LaBSE,E9_Move,P13_destroyed,✗,"0,3294","0,4419",✗
+Localisation,LaBSE,E9_Move,P25_moved,✗,"0,3294","0,4396",✗
+Localisation,LaBSE,E9_Move,P53_has_former_or_current_location,✗,"0,3294","0,4384",✗
+Localisation,LaBSE,E9_Move,P56_bears_feature,✗,"0,3294","0,4348",✗
+Localisation,LaBSE,E3_Condition_State,P92_brought_into_existence,✗,"0,308","0,488",✗
+Localisation,LaBSE,E3_Condition_State,P94_has_created,✗,"0,308","0,4702",✗
+Localisation,LaBSE,E3_Condition_State,P142_used_constituent,✗,"0,308","0,4439",✗
+Localisation,LaBSE,E3_Condition_State,P26_moved_to,✗,"0,308","0,4435",✗
+Localisation,LaBSE,E3_Condition_State,P27_moved_from,✗,"0,308","0,4426",✗
+Localisation,LaBSE,E3_Condition_State,P86_falls_within,✗,"0,308","0,442",✗
+Localisation,LaBSE,E3_Condition_State,P13_destroyed,✗,"0,308","0,4419",✗
+Localisation,LaBSE,E3_Condition_State,P25_moved,✗,"0,308","0,4396",✗
+Localisation,LaBSE,E3_Condition_State,P53_has_former_or_current_location,✗,"0,308","0,4384",✗
+Localisation,LaBSE,E3_Condition_State,P56_bears_feature,✗,"0,308","0,4348",✗
+Localisation,LaBSE,E14_Condition_Assessment,P92_brought_into_existence,✗,"0,2701","0,488",✗
+Localisation,LaBSE,E14_Condition_Assessment,P94_has_created,✗,"0,2701","0,4702",✗
+Localisation,LaBSE,E14_Condition_Assessment,P142_used_constituent,✗,"0,2701","0,4439",✗
+Localisation,LaBSE,E14_Condition_Assessment,P26_moved_to,✗,"0,2701","0,4435",✗
+Localisation,LaBSE,E14_Condition_Assessment,P27_moved_from,✗,"0,2701","0,4426",✗
+Localisation,LaBSE,E14_Condition_Assessment,P86_falls_within,✗,"0,2701","0,442",✗
+Localisation,LaBSE,E14_Condition_Assessment,P13_destroyed,✗,"0,2701","0,4419",✗
+Localisation,LaBSE,E14_Condition_Assessment,P25_moved,✗,"0,2701","0,4396",✗
+Localisation,LaBSE,E14_Condition_Assessment,P53_has_former_or_current_location,✗,"0,2701","0,4384",✗
+Localisation,LaBSE,E14_Condition_Assessment,P56_bears_feature,✗,"0,2701","0,4348",✗
+Etendue,LaBSE,E27_Site,P184_ends_before_or_with_the_end_of,✗,"0,4158","0,4362",✗
+Etendue,LaBSE,E27_Site,P197_covered_parts_of,✗,"0,4158","0,4295",✗
+Etendue,LaBSE,E27_Site,P173_starts_before_or_with_the_end_of,✗,"0,4158","0,4284",✗
+Etendue,LaBSE,E27_Site,P174_starts_before_the_end_of,✗,"0,4158","0,4255",✗
+Etendue,LaBSE,E27_Site,P175_starts_before_or_with_the_start_of,✗,"0,4158","0,4239",✗
+Etendue,LaBSE,E27_Site,P185_ends_before_the_end_of,✗,"0,4158","0,4201",✗
+Etendue,LaBSE,E27_Site,P74_has_current_or_former_residence,✗,"0,4158","0,4195",✗
+Etendue,LaBSE,E27_Site,P182_ends_before_or_with_the_start_of,✗,"0,4158","0,4175",✗
+Etendue,LaBSE,E27_Site,P176_starts_before_the_start_of,✗,"0,4158","0,4143",✗
+Etendue,LaBSE,E27_Site,P13_destroyed,✗,"0,4158","0,4118",✗
+Etendue,LaBSE,E20_Biological_Object,P184_ends_before_or_with_the_end_of,✗,"0,3727","0,4362",✗
+Etendue,LaBSE,E20_Biological_Object,P197_covered_parts_of,✗,"0,3727","0,4295",✗
+Etendue,LaBSE,E20_Biological_Object,P173_starts_before_or_with_the_end_of,✗,"0,3727","0,4284",✗
+Etendue,LaBSE,E20_Biological_Object,P174_starts_before_the_end_of,✗,"0,3727","0,4255",✗
+Etendue,LaBSE,E20_Biological_Object,P175_starts_before_or_with_the_start_of,✗,"0,3727","0,4239",✗
+Etendue,LaBSE,E20_Biological_Object,P185_ends_before_the_end_of,✗,"0,3727","0,4201",✗
+Etendue,LaBSE,E20_Biological_Object,P74_has_current_or_former_residence,✗,"0,3727","0,4195",✗
+Etendue,LaBSE,E20_Biological_Object,P182_ends_before_or_with_the_start_of,✗,"0,3727","0,4175",✗
+Etendue,LaBSE,E20_Biological_Object,P176_starts_before_the_start_of,✗,"0,3727","0,4143",✗
+Etendue,LaBSE,E20_Biological_Object,P13_destroyed,✗,"0,3727","0,4118",✗
+Etendue,LaBSE,E53_Place,P184_ends_before_or_with_the_end_of,✗,"0,3592","0,4362",✗
+Etendue,LaBSE,E53_Place,P197_covered_parts_of,✗,"0,3592","0,4295",✗
+Etendue,LaBSE,E53_Place,P173_starts_before_or_with_the_end_of,✗,"0,3592","0,4284",✗
+Etendue,LaBSE,E53_Place,P174_starts_before_the_end_of,✗,"0,3592","0,4255",✗
+Etendue,LaBSE,E53_Place,P175_starts_before_or_with_the_start_of,✗,"0,3592","0,4239",✗
+Etendue,LaBSE,E53_Place,P185_ends_before_the_end_of,✗,"0,3592","0,4201",✗
+Etendue,LaBSE,E53_Place,P74_has_current_or_former_residence,✗,"0,3592","0,4195",✗
+Etendue,LaBSE,E53_Place,P182_ends_before_or_with_the_start_of,✗,"0,3592","0,4175",✗
+Etendue,LaBSE,E53_Place,P176_starts_before_the_start_of,✗,"0,3592","0,4143",✗
+Etendue,LaBSE,E53_Place,P13_destroyed,✗,"0,3592","0,4118",✗
+Etendue,LaBSE,E52_Time-Span,P184_ends_before_or_with_the_end_of,✗,"0,345","0,4362",✗
+Etendue,LaBSE,E52_Time-Span,P197_covered_parts_of,✗,"0,345","0,4295",✗
+Etendue,LaBSE,E52_Time-Span,P173_starts_before_or_with_the_end_of,✗,"0,345","0,4284",✗
+Etendue,LaBSE,E52_Time-Span,P174_starts_before_the_end_of,✗,"0,345","0,4255",✗
+Etendue,LaBSE,E52_Time-Span,P175_starts_before_or_with_the_start_of,✗,"0,345","0,4239",✗
+Etendue,LaBSE,E52_Time-Span,P185_ends_before_the_end_of,✗,"0,345","0,4201",✗
+Etendue,LaBSE,E52_Time-Span,P74_has_current_or_former_residence,✗,"0,345","0,4195",✗
+Etendue,LaBSE,E52_Time-Span,P182_ends_before_or_with_the_start_of,✗,"0,345","0,4175",✗
+Etendue,LaBSE,E52_Time-Span,P176_starts_before_the_start_of,✗,"0,345","0,4143",✗
+Etendue,LaBSE,E52_Time-Span,P13_destroyed,✗,"0,345","0,4118",✗
+Etendue,LaBSE,E79_Part_Addition,P184_ends_before_or_with_the_end_of,✗,"0,3424","0,4362",✗
+Etendue,LaBSE,E79_Part_Addition,P197_covered_parts_of,✗,"0,3424","0,4295",✗
+Etendue,LaBSE,E79_Part_Addition,P173_starts_before_or_with_the_end_of,✗,"0,3424","0,4284",✗
+Etendue,LaBSE,E79_Part_Addition,P174_starts_before_the_end_of,✗,"0,3424","0,4255",✗
+Etendue,LaBSE,E79_Part_Addition,P175_starts_before_or_with_the_start_of,✗,"0,3424","0,4239",✗
+Etendue,LaBSE,E79_Part_Addition,P185_ends_before_the_end_of,✗,"0,3424","0,4201",✗
+Etendue,LaBSE,E79_Part_Addition,P74_has_current_or_former_residence,✗,"0,3424","0,4195",✗
+Etendue,LaBSE,E79_Part_Addition,P182_ends_before_or_with_the_start_of,✗,"0,3424","0,4175",✗
+Etendue,LaBSE,E79_Part_Addition,P176_starts_before_the_start_of,✗,"0,3424","0,4143",✗
+Etendue,LaBSE,E79_Part_Addition,P13_destroyed,✗,"0,3424","0,4118",✗
+Antérieur à,LaBSE,E42_Identifier,P108_has_produced,✗,"0,3043","0,5495",✗
+Antérieur à,LaBSE,E42_Identifier,P93_took_out_of_existence,✗,"0,3043","0,4817",✗
+Antérieur à,LaBSE,E42_Identifier,P102_has_title,✗,"0,3043","0,4814",✗
+Antérieur à,LaBSE,E42_Identifier,P164_is_temporally_specified_by,✗,"0,3043","0,4774",✗
+Antérieur à,LaBSE,E42_Identifier,P98_brought_into_life,✗,"0,3043","0,4642",✗
+Antérieur à,LaBSE,E42_Identifier,P186_produced_thing_of_product_type,✗,"0,3043","0,4615",✗
+Antérieur à,LaBSE,E42_Identifier,P42_assigned,✗,"0,3043","0,4556",✗
+Antérieur à,LaBSE,E42_Identifier,P48_has_preferred_identifier,✓,"0,3043","0,4528",✓
+Antérieur à,LaBSE,E42_Identifier,P92_brought_into_existence,✗,"0,3043","0,4503",✗
+Antérieur à,LaBSE,E42_Identifier,P100_was_death_of,✗,"0,3043","0,4485",✗
+Antérieur à,LaBSE,E93_Presence,P108_has_produced,✗,"0,3002","0,5495",✗
+Antérieur à,LaBSE,E93_Presence,P93_took_out_of_existence,✗,"0,3002","0,4817",✗
+Antérieur à,LaBSE,E93_Presence,P102_has_title,✗,"0,3002","0,4814",✗
+Antérieur à,LaBSE,E93_Presence,P164_is_temporally_specified_by,✗,"0,3002","0,4774",✗
+Antérieur à,LaBSE,E93_Presence,P98_brought_into_life,✗,"0,3002","0,4642",✗
+Antérieur à,LaBSE,E93_Presence,P186_produced_thing_of_product_type,✗,"0,3002","0,4615",✗
+Antérieur à,LaBSE,E93_Presence,P42_assigned,✗,"0,3002","0,4556",✗
+Antérieur à,LaBSE,E93_Presence,P48_has_preferred_identifier,✗,"0,3002","0,4528",✗
+Antérieur à,LaBSE,E93_Presence,P92_brought_into_existence,✗,"0,3002","0,4503",✗
+Antérieur à,LaBSE,E93_Presence,P100_was_death_of,✗,"0,3002","0,4485",✗
+Antérieur à,LaBSE,E2_Temporal_Entity,P108_has_produced,✗,"0,2964","0,5495",✗
+Antérieur à,LaBSE,E2_Temporal_Entity,P93_took_out_of_existence,✗,"0,2964","0,4817",✗
+Antérieur à,LaBSE,E2_Temporal_Entity,P102_has_title,✗,"0,2964","0,4814",✗
+Antérieur à,LaBSE,E2_Temporal_Entity,P164_is_temporally_specified_by,✗,"0,2964","0,4774",✗
+Antérieur à,LaBSE,E2_Temporal_Entity,P98_brought_into_life,✗,"0,2964","0,4642",✗
+Antérieur à,LaBSE,E2_Temporal_Entity,P186_produced_thing_of_product_type,✗,"0,2964","0,4615",✗
+Antérieur à,LaBSE,E2_Temporal_Entity,P42_assigned,✗,"0,2964","0,4556",✗
+Antérieur à,LaBSE,E2_Temporal_Entity,P48_has_preferred_identifier,✗,"0,2964","0,4528",✗
+Antérieur à,LaBSE,E2_Temporal_Entity,P92_brought_into_existence,✗,"0,2964","0,4503",✗
+Antérieur à,LaBSE,E2_Temporal_Entity,P100_was_death_of,✗,"0,2964","0,4485",✗
+Antérieur à,LaBSE,E37_Mark,P108_has_produced,✗,"0,2823","0,5495",✗
+Antérieur à,LaBSE,E37_Mark,P93_took_out_of_existence,✗,"0,2823","0,4817",✗
+Antérieur à,LaBSE,E37_Mark,P102_has_title,✗,"0,2823","0,4814",✗
+Antérieur à,LaBSE,E37_Mark,P164_is_temporally_specified_by,✗,"0,2823","0,4774",✗
+Antérieur à,LaBSE,E37_Mark,P98_brought_into_life,✗,"0,2823","0,4642",✗
+Antérieur à,LaBSE,E37_Mark,P186_produced_thing_of_product_type,✗,"0,2823","0,4615",✗
+Antérieur à,LaBSE,E37_Mark,P42_assigned,✗,"0,2823","0,4556",✗
+Antérieur à,LaBSE,E37_Mark,P48_has_preferred_identifier,✗,"0,2823","0,4528",✗
+Antérieur à,LaBSE,E37_Mark,P92_brought_into_existence,✗,"0,2823","0,4503",✗
+Antérieur à,LaBSE,E37_Mark,P100_was_death_of,✗,"0,2823","0,4485",✗
+Antérieur à,LaBSE,E98_Currency,P108_has_produced,✗,"0,2764","0,5495",✗
+Antérieur à,LaBSE,E98_Currency,P93_took_out_of_existence,✗,"0,2764","0,4817",✗
+Antérieur à,LaBSE,E98_Currency,P102_has_title,✗,"0,2764","0,4814",✗
+Antérieur à,LaBSE,E98_Currency,P164_is_temporally_specified_by,✗,"0,2764","0,4774",✗
+Antérieur à,LaBSE,E98_Currency,P98_brought_into_life,✗,"0,2764","0,4642",✗
+Antérieur à,LaBSE,E98_Currency,P186_produced_thing_of_product_type,✗,"0,2764","0,4615",✗
+Antérieur à,LaBSE,E98_Currency,P42_assigned,✗,"0,2764","0,4556",✗
+Antérieur à,LaBSE,E98_Currency,P48_has_preferred_identifier,✗,"0,2764","0,4528",✗
+Antérieur à,LaBSE,E98_Currency,P92_brought_into_existence,✗,"0,2764","0,4503",✗
+Antérieur à,LaBSE,E98_Currency,P100_was_death_of,✗,"0,2764","0,4485",✗
+Postérieur à,LaBSE,E42_Identifier,P108_has_produced,✗,"0,3177","0,5665",✗
+Postérieur à,LaBSE,E42_Identifier,P102_has_title,✗,"0,3177","0,5359",✗
+Postérieur à,LaBSE,E42_Identifier,P186_produced_thing_of_product_type,✗,"0,3177","0,5227",✗
+Postérieur à,LaBSE,E42_Identifier,P142_used_constituent,✗,"0,3177","0,5122",✗
+Postérieur à,LaBSE,E42_Identifier,P126_employed,✗,"0,3177","0,51",✗
+Postérieur à,LaBSE,E42_Identifier,P92_brought_into_existence,✗,"0,3177","0,5069",✗
+Postérieur à,LaBSE,E42_Identifier,P164_is_temporally_specified_by,✗,"0,3177","0,5041",✗
+Postérieur à,LaBSE,E42_Identifier,P93_took_out_of_existence,✗,"0,3177","0,4985",✗
+Postérieur à,LaBSE,E42_Identifier,P48_has_preferred_identifier,✓,"0,3177","0,4985",✓
+Postérieur à,LaBSE,E42_Identifier,P139_has_alternative_form,✗,"0,3177","0,497",✗
+Postérieur à,LaBSE,E2_Temporal_Entity,P108_has_produced,✗,"0,297","0,5665",✗
+Postérieur à,LaBSE,E2_Temporal_Entity,P102_has_title,✗,"0,297","0,5359",✗
+Postérieur à,LaBSE,E2_Temporal_Entity,P186_produced_thing_of_product_type,✗,"0,297","0,5227",✗
+Postérieur à,LaBSE,E2_Temporal_Entity,P142_used_constituent,✗,"0,297","0,5122",✗
+Postérieur à,LaBSE,E2_Temporal_Entity,P126_employed,✗,"0,297","0,51",✗
+Postérieur à,LaBSE,E2_Temporal_Entity,P92_brought_into_existence,✗,"0,297","0,5069",✗
+Postérieur à,LaBSE,E2_Temporal_Entity,P164_is_temporally_specified_by,✗,"0,297","0,5041",✗
+Postérieur à,LaBSE,E2_Temporal_Entity,P93_took_out_of_existence,✗,"0,297","0,4985",✗
+Postérieur à,LaBSE,E2_Temporal_Entity,P48_has_preferred_identifier,✗,"0,297","0,4985",✗
+Postérieur à,LaBSE,E2_Temporal_Entity,P139_has_alternative_form,✗,"0,297","0,497",✗
+Postérieur à,LaBSE,E37_Mark,P108_has_produced,✗,"0,2915","0,5665",✗
+Postérieur à,LaBSE,E37_Mark,P102_has_title,✗,"0,2915","0,5359",✗
+Postérieur à,LaBSE,E37_Mark,P186_produced_thing_of_product_type,✗,"0,2915","0,5227",✗
+Postérieur à,LaBSE,E37_Mark,P142_used_constituent,✗,"0,2915","0,5122",✗
+Postérieur à,LaBSE,E37_Mark,P126_employed,✗,"0,2915","0,51",✗
+Postérieur à,LaBSE,E37_Mark,P92_brought_into_existence,✗,"0,2915","0,5069",✗
+Postérieur à,LaBSE,E37_Mark,P164_is_temporally_specified_by,✗,"0,2915","0,5041",✗
+Postérieur à,LaBSE,E37_Mark,P93_took_out_of_existence,✗,"0,2915","0,4985",✗
+Postérieur à,LaBSE,E37_Mark,P48_has_preferred_identifier,✗,"0,2915","0,4985",✗
+Postérieur à,LaBSE,E37_Mark,P139_has_alternative_form,✗,"0,2915","0,497",✗
+Postérieur à,LaBSE,E32_Authority_Document,P108_has_produced,✗,"0,29","0,5665",✗
+Postérieur à,LaBSE,E32_Authority_Document,P102_has_title,✗,"0,29","0,5359",✗
+Postérieur à,LaBSE,E32_Authority_Document,P186_produced_thing_of_product_type,✗,"0,29","0,5227",✗
+Postérieur à,LaBSE,E32_Authority_Document,P142_used_constituent,✗,"0,29","0,5122",✗
+Postérieur à,LaBSE,E32_Authority_Document,P126_employed,✗,"0,29","0,51",✗
+Postérieur à,LaBSE,E32_Authority_Document,P92_brought_into_existence,✗,"0,29","0,5069",✗
+Postérieur à,LaBSE,E32_Authority_Document,P164_is_temporally_specified_by,✗,"0,29","0,5041",✗
+Postérieur à,LaBSE,E32_Authority_Document,P93_took_out_of_existence,✗,"0,29","0,4985",✗
+Postérieur à,LaBSE,E32_Authority_Document,P48_has_preferred_identifier,✗,"0,29","0,4985",✗
+Postérieur à,LaBSE,E32_Authority_Document,P139_has_alternative_form,✗,"0,29","0,497",✗
+Postérieur à,LaBSE,E93_Presence,P108_has_produced,✗,"0,2891","0,5665",✗
+Postérieur à,LaBSE,E93_Presence,P102_has_title,✗,"0,2891","0,5359",✗
+Postérieur à,LaBSE,E93_Presence,P186_produced_thing_of_product_type,✗,"0,2891","0,5227",✗
+Postérieur à,LaBSE,E93_Presence,P142_used_constituent,✗,"0,2891","0,5122",✗
+Postérieur à,LaBSE,E93_Presence,P126_employed,✗,"0,2891","0,51",✗
+Postérieur à,LaBSE,E93_Presence,P92_brought_into_existence,✗,"0,2891","0,5069",✗
+Postérieur à,LaBSE,E93_Presence,P164_is_temporally_specified_by,✗,"0,2891","0,5041",✗
+Postérieur à,LaBSE,E93_Presence,P93_took_out_of_existence,✗,"0,2891","0,4985",✗
+Postérieur à,LaBSE,E93_Presence,P48_has_preferred_identifier,✗,"0,2891","0,4985",✗
+Postérieur à,LaBSE,E93_Presence,P139_has_alternative_form,✗,"0,2891","0,497",✗
+Egal à ,LaBSE,E98_Currency,P180_has_currency,✗,"0,2233","0,6164",✗
+Egal à ,LaBSE,E98_Currency,P186_produced_thing_of_product_type,✗,"0,2233","0,5595",✗
+Egal à ,LaBSE,E98_Currency,P124_transformed,✗,"0,2233","0,5242",✗
+Egal à ,LaBSE,E98_Currency,P123_resulted_in,✗,"0,2233","0,4939",✗
+Egal à ,LaBSE,E98_Currency,P13_destroyed,✗,"0,2233","0,4659",✗
+Egal à ,LaBSE,E98_Currency,P94_has_created,✗,"0,2233","0,4645",✗
+Egal à ,LaBSE,E98_Currency,P92_brought_into_existence,✗,"0,2233","0,4615",✗
+Egal à ,LaBSE,E98_Currency,P179_had_sales_price,✗,"0,2233","0,4609",✗
+Egal à ,LaBSE,E98_Currency,P188_requires_production_tool,✗,"0,2233","0,4587",✗
+Egal à ,LaBSE,E98_Currency,P102_has_title,✗,"0,2233","0,4573",✗
+Egal à ,LaBSE,E99_Product_Type,P180_has_currency,✗,"0,208","0,6164",✗
+Egal à ,LaBSE,E99_Product_Type,P186_produced_thing_of_product_type,✗,"0,208","0,5595",✗
+Egal à ,LaBSE,E99_Product_Type,P124_transformed,✗,"0,208","0,5242",✗
+Egal à ,LaBSE,E99_Product_Type,P123_resulted_in,✗,"0,208","0,4939",✗
+Egal à ,LaBSE,E99_Product_Type,P13_destroyed,✗,"0,208","0,4659",✗
+Egal à ,LaBSE,E99_Product_Type,P94_has_created,✗,"0,208","0,4645",✗
+Egal à ,LaBSE,E99_Product_Type,P92_brought_into_existence,✗,"0,208","0,4615",✗
+Egal à ,LaBSE,E99_Product_Type,P179_had_sales_price,✗,"0,208","0,4609",✗
+Egal à ,LaBSE,E99_Product_Type,P188_requires_production_tool,✗,"0,208","0,4587",✗
+Egal à ,LaBSE,E99_Product_Type,P102_has_title,✗,"0,208","0,4573",✗
+Egal à ,LaBSE,E13_Attribute_Assignment,P180_has_currency,✗,"0,1842","0,6164",✗
+Egal à ,LaBSE,E13_Attribute_Assignment,P186_produced_thing_of_product_type,✗,"0,1842","0,5595",✗
+Egal à ,LaBSE,E13_Attribute_Assignment,P124_transformed,✗,"0,1842","0,5242",✗
+Egal à ,LaBSE,E13_Attribute_Assignment,P123_resulted_in,✗,"0,1842","0,4939",✗
+Egal à ,LaBSE,E13_Attribute_Assignment,P13_destroyed,✗,"0,1842","0,4659",✗
+Egal à ,LaBSE,E13_Attribute_Assignment,P94_has_created,✗,"0,1842","0,4645",✗
+Egal à ,LaBSE,E13_Attribute_Assignment,P92_brought_into_existence,✗,"0,1842","0,4615",✗
+Egal à ,LaBSE,E13_Attribute_Assignment,P179_had_sales_price,✗,"0,1842","0,4609",✗
+Egal à ,LaBSE,E13_Attribute_Assignment,P188_requires_production_tool,✗,"0,1842","0,4587",✗
+Egal à ,LaBSE,E13_Attribute_Assignment,P102_has_title,✗,"0,1842","0,4573",✗
+Egal à ,LaBSE,E72_Legal_Object,P180_has_currency,✗,"0,179","0,6164",✗
+Egal à ,LaBSE,E72_Legal_Object,P186_produced_thing_of_product_type,✗,"0,179","0,5595",✗
+Egal à ,LaBSE,E72_Legal_Object,P124_transformed,✗,"0,179","0,5242",✗
+Egal à ,LaBSE,E72_Legal_Object,P123_resulted_in,✗,"0,179","0,4939",✗
+Egal à ,LaBSE,E72_Legal_Object,P13_destroyed,✗,"0,179","0,4659",✗
+Egal à ,LaBSE,E72_Legal_Object,P94_has_created,✗,"0,179","0,4645",✗
+Egal à ,LaBSE,E72_Legal_Object,P92_brought_into_existence,✗,"0,179","0,4615",✗
+Egal à ,LaBSE,E72_Legal_Object,P179_had_sales_price,✗,"0,179","0,4609",✗
+Egal à ,LaBSE,E72_Legal_Object,P188_requires_production_tool,✗,"0,179","0,4587",✗
+Egal à ,LaBSE,E72_Legal_Object,P102_has_title,✗,"0,179","0,4573",✗
+Egal à ,LaBSE,E97_Monetary_Amount,P180_has_currency,✗,"0,1771","0,6164",✗
+Egal à ,LaBSE,E97_Monetary_Amount,P186_produced_thing_of_product_type,✗,"0,1771","0,5595",✗
+Egal à ,LaBSE,E97_Monetary_Amount,P124_transformed,✗,"0,1771","0,5242",✗
+Egal à ,LaBSE,E97_Monetary_Amount,P123_resulted_in,✗,"0,1771","0,4939",✗
+Egal à ,LaBSE,E97_Monetary_Amount,P13_destroyed,✗,"0,1771","0,4659",✗
+Egal à ,LaBSE,E97_Monetary_Amount,P94_has_created,✗,"0,1771","0,4645",✗
+Egal à ,LaBSE,E97_Monetary_Amount,P92_brought_into_existence,✗,"0,1771","0,4615",✗
+Egal à ,LaBSE,E97_Monetary_Amount,P179_had_sales_price,✗,"0,1771","0,4609",✗
+Egal à ,LaBSE,E97_Monetary_Amount,P188_requires_production_tool,✗,"0,1771","0,4587",✗
+Egal à ,LaBSE,E97_Monetary_Amount,P102_has_title,✗,"0,1771","0,4573",✗
+Etat,LaBSE,E14_Condition_Assessment,P35_has_identified,✗,"0,4595","0,5329",✗
+Etat,LaBSE,E14_Condition_Assessment,P186_produced_thing_of_product_type,✗,"0,4595","0,5265",✗
+Etat,LaBSE,E14_Condition_Assessment,P92_brought_into_existence,✗,"0,4595","0,5223",✗
+Etat,LaBSE,E14_Condition_Assessment,P108_has_produced,✗,"0,4595","0,5214",✗
+Etat,LaBSE,E14_Condition_Assessment,P126_employed,✗,"0,4595","0,5149",✗
+Etat,LaBSE,E14_Condition_Assessment,P44_has_condition,✗,"0,4595","0,5082",✗
+Etat,LaBSE,E14_Condition_Assessment,P13_destroyed,✗,"0,4595","0,5059",✗
+Etat,LaBSE,E14_Condition_Assessment,P31_has_modified,✗,"0,4595","0,5",✗
+Etat,LaBSE,E14_Condition_Assessment,P34_concerned,✗,"0,4595","0,4849",✗
+Etat,LaBSE,E14_Condition_Assessment,P94_has_created,✗,"0,4595","0,4827",✗
+Etat,LaBSE,E3_Condition_State,P35_has_identified,✗,"0,4537","0,5329",✗
+Etat,LaBSE,E3_Condition_State,P186_produced_thing_of_product_type,✗,"0,4537","0,5265",✗
+Etat,LaBSE,E3_Condition_State,P92_brought_into_existence,✗,"0,4537","0,5223",✗
+Etat,LaBSE,E3_Condition_State,P108_has_produced,✗,"0,4537","0,5214",✗
+Etat,LaBSE,E3_Condition_State,P126_employed,✗,"0,4537","0,5149",✗
+Etat,LaBSE,E3_Condition_State,P44_has_condition,✓,"0,4537","0,5082",✓
+Etat,LaBSE,E3_Condition_State,P13_destroyed,✗,"0,4537","0,5059",✗
+Etat,LaBSE,E3_Condition_State,P31_has_modified,✗,"0,4537","0,5",✗
+Etat,LaBSE,E3_Condition_State,P34_concerned,✗,"0,4537","0,4849",✗
+Etat,LaBSE,E3_Condition_State,P94_has_created,✗,"0,4537","0,4827",✗
+Etat,LaBSE,E21_Person,P35_has_identified,✗,"0,374","0,5329",✗
+Etat,LaBSE,E21_Person,P186_produced_thing_of_product_type,✗,"0,374","0,5265",✗
+Etat,LaBSE,E21_Person,P92_brought_into_existence,✗,"0,374","0,5223",✗
+Etat,LaBSE,E21_Person,P108_has_produced,✗,"0,374","0,5214",✗
+Etat,LaBSE,E21_Person,P126_employed,✗,"0,374","0,5149",✗
+Etat,LaBSE,E21_Person,P44_has_condition,✗,"0,374","0,5082",✗
+Etat,LaBSE,E21_Person,P13_destroyed,✗,"0,374","0,5059",✗
+Etat,LaBSE,E21_Person,P31_has_modified,✗,"0,374","0,5",✗
+Etat,LaBSE,E21_Person,P34_concerned,✗,"0,374","0,4849",✗
+Etat,LaBSE,E21_Person,P94_has_created,✗,"0,374","0,4827",✗
+Etat,LaBSE,E20_Biological_Object,P35_has_identified,✗,"0,3662","0,5329",✗
+Etat,LaBSE,E20_Biological_Object,P186_produced_thing_of_product_type,✗,"0,3662","0,5265",✗
+Etat,LaBSE,E20_Biological_Object,P92_brought_into_existence,✗,"0,3662","0,5223",✗
+Etat,LaBSE,E20_Biological_Object,P108_has_produced,✗,"0,3662","0,5214",✗
+Etat,LaBSE,E20_Biological_Object,P126_employed,✗,"0,3662","0,5149",✗
+Etat,LaBSE,E20_Biological_Object,P44_has_condition,✗,"0,3662","0,5082",✗
+Etat,LaBSE,E20_Biological_Object,P13_destroyed,✗,"0,3662","0,5059",✗
+Etat,LaBSE,E20_Biological_Object,P31_has_modified,✗,"0,3662","0,5",✗
+Etat,LaBSE,E20_Biological_Object,P34_concerned,✗,"0,3662","0,4849",✗
+Etat,LaBSE,E20_Biological_Object,P94_has_created,✗,"0,3662","0,4827",✗
+Etat,LaBSE,E2_Temporal_Entity,P35_has_identified,✗,"0,3464","0,5329",✗
+Etat,LaBSE,E2_Temporal_Entity,P186_produced_thing_of_product_type,✗,"0,3464","0,5265",✗
+Etat,LaBSE,E2_Temporal_Entity,P92_brought_into_existence,✗,"0,3464","0,5223",✗
+Etat,LaBSE,E2_Temporal_Entity,P108_has_produced,✗,"0,3464","0,5214",✗
+Etat,LaBSE,E2_Temporal_Entity,P126_employed,✗,"0,3464","0,5149",✗
+Etat,LaBSE,E2_Temporal_Entity,P44_has_condition,✗,"0,3464","0,5082",✗
+Etat,LaBSE,E2_Temporal_Entity,P13_destroyed,✗,"0,3464","0,5059",✗
+Etat,LaBSE,E2_Temporal_Entity,P31_has_modified,✗,"0,3464","0,5",✗
+Etat,LaBSE,E2_Temporal_Entity,P34_concerned,✗,"0,3464","0,4849",✗
+Etat,LaBSE,E2_Temporal_Entity,P94_has_created,✗,"0,3464","0,4827",✗
+Mortier,LaBSE,E24_Physical_Human-Made_Thing,P108_has_produced,✗,"0,3635","0,5822",✗
+Mortier,LaBSE,E24_Physical_Human-Made_Thing,P94_has_created,✗,"0,3635","0,528",✗
+Mortier,LaBSE,E24_Physical_Human-Made_Thing,P98_brought_into_life,✗,"0,3635","0,4939",✗
+Mortier,LaBSE,E24_Physical_Human-Made_Thing,P102_has_title,✗,"0,3635","0,4905",✗
+Mortier,LaBSE,E24_Physical_Human-Made_Thing,P186_produced_thing_of_product_type,✗,"0,3635","0,4883",✗
+Mortier,LaBSE,E24_Physical_Human-Made_Thing,P13_destroyed,✗,"0,3635","0,4867",✗
+Mortier,LaBSE,E24_Physical_Human-Made_Thing,P100_was_death_of,✗,"0,3635","0,4865",✗
+Mortier,LaBSE,E24_Physical_Human-Made_Thing,P126_employed,✗,"0,3635","0,483",✗
+Mortier,LaBSE,E24_Physical_Human-Made_Thing,P92_brought_into_existence,✗,"0,3635","0,4807",✗
+Mortier,LaBSE,E24_Physical_Human-Made_Thing,P4_has_time-span,✗,"0,3635","0,4781",✗
+Mortier,LaBSE,E57_Material,P108_has_produced,✗,"0,333","0,5822",✗
+Mortier,LaBSE,E57_Material,P94_has_created,✗,"0,333","0,528",✗
+Mortier,LaBSE,E57_Material,P98_brought_into_life,✗,"0,333","0,4939",✗
+Mortier,LaBSE,E57_Material,P102_has_title,✗,"0,333","0,4905",✗
+Mortier,LaBSE,E57_Material,P186_produced_thing_of_product_type,✗,"0,333","0,4883",✗
+Mortier,LaBSE,E57_Material,P13_destroyed,✗,"0,333","0,4867",✗
+Mortier,LaBSE,E57_Material,P100_was_death_of,✗,"0,333","0,4865",✗
+Mortier,LaBSE,E57_Material,P126_employed,✗,"0,333","0,483",✗
+Mortier,LaBSE,E57_Material,P92_brought_into_existence,✗,"0,333","0,4807",✗
+Mortier,LaBSE,E57_Material,P4_has_time-span,✗,"0,333","0,4781",✗
+Mortier,LaBSE,E25_Human-Made_Feature,P108_has_produced,✗,"0,3323","0,5822",✗
+Mortier,LaBSE,E25_Human-Made_Feature,P94_has_created,✗,"0,3323","0,528",✗
+Mortier,LaBSE,E25_Human-Made_Feature,P98_brought_into_life,✗,"0,3323","0,4939",✗
+Mortier,LaBSE,E25_Human-Made_Feature,P102_has_title,✗,"0,3323","0,4905",✗
+Mortier,LaBSE,E25_Human-Made_Feature,P186_produced_thing_of_product_type,✗,"0,3323","0,4883",✗
+Mortier,LaBSE,E25_Human-Made_Feature,P13_destroyed,✗,"0,3323","0,4867",✗
+Mortier,LaBSE,E25_Human-Made_Feature,P100_was_death_of,✗,"0,3323","0,4865",✗
+Mortier,LaBSE,E25_Human-Made_Feature,P126_employed,✗,"0,3323","0,483",✗
+Mortier,LaBSE,E25_Human-Made_Feature,P92_brought_into_existence,✗,"0,3323","0,4807",✗
+Mortier,LaBSE,E25_Human-Made_Feature,P4_has_time-span,✗,"0,3323","0,4781",✗
+Mortier,LaBSE,E65_Creation,P108_has_produced,✗,"0,3096","0,5822",✗
+Mortier,LaBSE,E65_Creation,P94_has_created,✗,"0,3096","0,528",✗
+Mortier,LaBSE,E65_Creation,P98_brought_into_life,✗,"0,3096","0,4939",✗
+Mortier,LaBSE,E65_Creation,P102_has_title,✗,"0,3096","0,4905",✗
+Mortier,LaBSE,E65_Creation,P186_produced_thing_of_product_type,✗,"0,3096","0,4883",✗
+Mortier,LaBSE,E65_Creation,P13_destroyed,✗,"0,3096","0,4867",✗
+Mortier,LaBSE,E65_Creation,P100_was_death_of,✗,"0,3096","0,4865",✗
+Mortier,LaBSE,E65_Creation,P126_employed,✗,"0,3096","0,483",✗
+Mortier,LaBSE,E65_Creation,P92_brought_into_existence,✗,"0,3096","0,4807",✗
+Mortier,LaBSE,E65_Creation,P4_has_time-span,✗,"0,3096","0,4781",✗
+Mortier,LaBSE,E20_Biological_Object,P108_has_produced,✗,"0,2997","0,5822",✗
+Mortier,LaBSE,E20_Biological_Object,P94_has_created,✗,"0,2997","0,528",✗
+Mortier,LaBSE,E20_Biological_Object,P98_brought_into_life,✗,"0,2997","0,4939",✗
+Mortier,LaBSE,E20_Biological_Object,P102_has_title,✗,"0,2997","0,4905",✗
+Mortier,LaBSE,E20_Biological_Object,P186_produced_thing_of_product_type,✗,"0,2997","0,4883",✗
+Mortier,LaBSE,E20_Biological_Object,P13_destroyed,✗,"0,2997","0,4867",✗
+Mortier,LaBSE,E20_Biological_Object,P100_was_death_of,✗,"0,2997","0,4865",✗
+Mortier,LaBSE,E20_Biological_Object,P126_employed,✗,"0,2997","0,483",✗
+Mortier,LaBSE,E20_Biological_Object,P92_brought_into_existence,✗,"0,2997","0,4807",✗
+Mortier,LaBSE,E20_Biological_Object,P4_has_time-span,✗,"0,2997","0,4781",✗
+n° US,all-mpnet-base-v2,E34_Inscription,P32_used_general_technique,✗,"0,4715","0,5307",✗
+n° US,all-mpnet-base-v2,E34_Inscription,P65_shows_visual_item,✓,"0,4715","0,5255",✗
+n° US,all-mpnet-base-v2,E34_Inscription,P136_was_based_on,✗,"0,4715","0,5014",✗
+n° US,all-mpnet-base-v2,E34_Inscription,P62_depicts,✓,"0,4715","0,5006",✗
+n° US,all-mpnet-base-v2,E34_Inscription,P138_represents,✗,"0,4715","0,493",✗
+n° US,all-mpnet-base-v2,E34_Inscription,P165_incorporates,✗,"0,4715","0,4728",✗
+n° US,all-mpnet-base-v2,E34_Inscription,P126_employed,✗,"0,4715","0,4518",✗
+n° US,all-mpnet-base-v2,E34_Inscription,P13_destroyed,✗,"0,4715","0,4453",✗
+n° US,all-mpnet-base-v2,E34_Inscription,P128_carries,✓,"0,4715","0,4432",✗
+n° US,all-mpnet-base-v2,E34_Inscription,P42_assigned,✗,"0,4715","0,4377",✗
+n° US,all-mpnet-base-v2,E27_Site,P32_used_general_technique,✗,"0,4453","0,5307",✗
+n° US,all-mpnet-base-v2,E27_Site,P65_shows_visual_item,✗,"0,4453","0,5255",✗
+n° US,all-mpnet-base-v2,E27_Site,P136_was_based_on,✗,"0,4453","0,5014",✗
+n° US,all-mpnet-base-v2,E27_Site,P62_depicts,✓,"0,4453","0,5006",✗
+n° US,all-mpnet-base-v2,E27_Site,P138_represents,✗,"0,4453","0,493",✗
+n° US,all-mpnet-base-v2,E27_Site,P165_incorporates,✗,"0,4453","0,4728",✗
+n° US,all-mpnet-base-v2,E27_Site,P126_employed,✗,"0,4453","0,4518",✗
+n° US,all-mpnet-base-v2,E27_Site,P13_destroyed,✗,"0,4453","0,4453",✗
+n° US,all-mpnet-base-v2,E27_Site,P128_carries,✗,"0,4453","0,4432",✗
+n° US,all-mpnet-base-v2,E27_Site,P42_assigned,✗,"0,4453","0,4377",✗
+n° US,all-mpnet-base-v2,E37_Mark,P32_used_general_technique,✗,"0,4377","0,5307",✗
+n° US,all-mpnet-base-v2,E37_Mark,P65_shows_visual_item,✓,"0,4377","0,5255",✗
+n° US,all-mpnet-base-v2,E37_Mark,P136_was_based_on,✗,"0,4377","0,5014",✗
+n° US,all-mpnet-base-v2,E37_Mark,P62_depicts,✓,"0,4377","0,5006",✗
+n° US,all-mpnet-base-v2,E37_Mark,P138_represents,✗,"0,4377","0,493",✗
+n° US,all-mpnet-base-v2,E37_Mark,P165_incorporates,✗,"0,4377","0,4728",✗
+n° US,all-mpnet-base-v2,E37_Mark,P126_employed,✗,"0,4377","0,4518",✗
+n° US,all-mpnet-base-v2,E37_Mark,P13_destroyed,✗,"0,4377","0,4453",✗
+n° US,all-mpnet-base-v2,E37_Mark,P128_carries,✓,"0,4377","0,4432",✗
+n° US,all-mpnet-base-v2,E37_Mark,P42_assigned,✗,"0,4377","0,4377",✗
+n° US,all-mpnet-base-v2,E71_Human-Made_Thing,P32_used_general_technique,✗,"0,4223","0,5307",✗
+n° US,all-mpnet-base-v2,E71_Human-Made_Thing,P65_shows_visual_item,✗,"0,4223","0,5255",✗
+n° US,all-mpnet-base-v2,E71_Human-Made_Thing,P136_was_based_on,✗,"0,4223","0,5014",✗
+n° US,all-mpnet-base-v2,E71_Human-Made_Thing,P62_depicts,✓,"0,4223","0,5006",✗
+n° US,all-mpnet-base-v2,E71_Human-Made_Thing,P138_represents,✗,"0,4223","0,493",✗
+n° US,all-mpnet-base-v2,E71_Human-Made_Thing,P165_incorporates,✗,"0,4223","0,4728",✗
+n° US,all-mpnet-base-v2,E71_Human-Made_Thing,P126_employed,✗,"0,4223","0,4518",✗
+n° US,all-mpnet-base-v2,E71_Human-Made_Thing,P13_destroyed,✗,"0,4223","0,4453",✗
+n° US,all-mpnet-base-v2,E71_Human-Made_Thing,P128_carries,✗,"0,4223","0,4432",✗
+n° US,all-mpnet-base-v2,E71_Human-Made_Thing,P42_assigned,✗,"0,4223","0,4377",✗
+n° US,all-mpnet-base-v2,E25_Human-Made_Feature,P32_used_general_technique,✗,"0,3818","0,5307",✗
+n° US,all-mpnet-base-v2,E25_Human-Made_Feature,P65_shows_visual_item,✗,"0,3818","0,5255",✗
+n° US,all-mpnet-base-v2,E25_Human-Made_Feature,P136_was_based_on,✗,"0,3818","0,5014",✗
+n° US,all-mpnet-base-v2,E25_Human-Made_Feature,P62_depicts,✓,"0,3818","0,5006",✗
+n° US,all-mpnet-base-v2,E25_Human-Made_Feature,P138_represents,✗,"0,3818","0,493",✗
+n° US,all-mpnet-base-v2,E25_Human-Made_Feature,P165_incorporates,✗,"0,3818","0,4728",✗
+n° US,all-mpnet-base-v2,E25_Human-Made_Feature,P126_employed,✗,"0,3818","0,4518",✗
+n° US,all-mpnet-base-v2,E25_Human-Made_Feature,P13_destroyed,✗,"0,3818","0,4453",✗
+n° US,all-mpnet-base-v2,E25_Human-Made_Feature,P128_carries,✗,"0,3818","0,4432",✗
+n° US,all-mpnet-base-v2,E25_Human-Made_Feature,P42_assigned,✗,"0,3818","0,4377",✗
+Localisation,all-mpnet-base-v2,E53_Place,P197_covered_parts_of,✗,"0,3944","0,5438",✗
+Localisation,all-mpnet-base-v2,E53_Place,P46_is_composed_of,✗,"0,3944","0,5003",✗
+Localisation,all-mpnet-base-v2,E53_Place,P122_borders_with,✗,"0,3944","0,4984",✗
+Localisation,all-mpnet-base-v2,E53_Place,P56_bears_feature,✗,"0,3944","0,495",✗
+Localisation,all-mpnet-base-v2,E53_Place,P89_falls_within,✗,"0,3944","0,4935",✗
+Localisation,all-mpnet-base-v2,E53_Place,P138_represents,✗,"0,3944","0,4892",✗
+Localisation,all-mpnet-base-v2,E53_Place,P126_employed,✗,"0,3944","0,4839",✗
+Localisation,all-mpnet-base-v2,E53_Place,P168_place_is_defined_by,✗,"0,3944","0,4738",✗
+Localisation,all-mpnet-base-v2,E53_Place,P165_incorporates,✗,"0,3944","0,4726",✗
+Localisation,all-mpnet-base-v2,E53_Place,P198_holds_or_supports,✗,"0,3944","0,4702",✗
+Localisation,all-mpnet-base-v2,E27_Site,P197_covered_parts_of,✗,"0,3809","0,5438",✗
+Localisation,all-mpnet-base-v2,E27_Site,P46_is_composed_of,✓,"0,3809","0,5003",✗
+Localisation,all-mpnet-base-v2,E27_Site,P122_borders_with,✗,"0,3809","0,4984",✗
+Localisation,all-mpnet-base-v2,E27_Site,P56_bears_feature,✓,"0,3809","0,495",✗
+Localisation,all-mpnet-base-v2,E27_Site,P89_falls_within,✗,"0,3809","0,4935",✗
+Localisation,all-mpnet-base-v2,E27_Site,P138_represents,✗,"0,3809","0,4892",✗
+Localisation,all-mpnet-base-v2,E27_Site,P126_employed,✗,"0,3809","0,4839",✗
+Localisation,all-mpnet-base-v2,E27_Site,P168_place_is_defined_by,✗,"0,3809","0,4738",✗
+Localisation,all-mpnet-base-v2,E27_Site,P165_incorporates,✗,"0,3809","0,4726",✗
+Localisation,all-mpnet-base-v2,E27_Site,P198_holds_or_supports,✓,"0,3809","0,4702",✗
+Localisation,all-mpnet-base-v2,E41_Appellation,P197_covered_parts_of,✗,"0,3592","0,5438",✗
+Localisation,all-mpnet-base-v2,E41_Appellation,P46_is_composed_of,✗,"0,3592","0,5003",✗
+Localisation,all-mpnet-base-v2,E41_Appellation,P122_borders_with,✗,"0,3592","0,4984",✗
+Localisation,all-mpnet-base-v2,E41_Appellation,P56_bears_feature,✗,"0,3592","0,495",✗
+Localisation,all-mpnet-base-v2,E41_Appellation,P89_falls_within,✗,"0,3592","0,4935",✗
+Localisation,all-mpnet-base-v2,E41_Appellation,P138_represents,✗,"0,3592","0,4892",✗
+Localisation,all-mpnet-base-v2,E41_Appellation,P126_employed,✗,"0,3592","0,4839",✗
+Localisation,all-mpnet-base-v2,E41_Appellation,P168_place_is_defined_by,✗,"0,3592","0,4738",✗
+Localisation,all-mpnet-base-v2,E41_Appellation,P165_incorporates,✗,"0,3592","0,4726",✗
+Localisation,all-mpnet-base-v2,E41_Appellation,P198_holds_or_supports,✗,"0,3592","0,4702",✗
+Localisation,all-mpnet-base-v2,E37_Mark,P197_covered_parts_of,✗,"0,3432","0,5438",✗
+Localisation,all-mpnet-base-v2,E37_Mark,P46_is_composed_of,✗,"0,3432","0,5003",✗
+Localisation,all-mpnet-base-v2,E37_Mark,P122_borders_with,✗,"0,3432","0,4984",✗
+Localisation,all-mpnet-base-v2,E37_Mark,P56_bears_feature,✗,"0,3432","0,495",✗
+Localisation,all-mpnet-base-v2,E37_Mark,P89_falls_within,✗,"0,3432","0,4935",✗
+Localisation,all-mpnet-base-v2,E37_Mark,P138_represents,✗,"0,3432","0,4892",✗
+Localisation,all-mpnet-base-v2,E37_Mark,P126_employed,✗,"0,3432","0,4839",✗
+Localisation,all-mpnet-base-v2,E37_Mark,P168_place_is_defined_by,✗,"0,3432","0,4738",✗
+Localisation,all-mpnet-base-v2,E37_Mark,P165_incorporates,✗,"0,3432","0,4726",✗
+Localisation,all-mpnet-base-v2,E37_Mark,P198_holds_or_supports,✗,"0,3432","0,4702",✗
+Localisation,all-mpnet-base-v2,E33_Linguistic_Object,P197_covered_parts_of,✗,"0,3382","0,5438",✗
+Localisation,all-mpnet-base-v2,E33_Linguistic_Object,P46_is_composed_of,✗,"0,3382","0,5003",✗
+Localisation,all-mpnet-base-v2,E33_Linguistic_Object,P122_borders_with,✗,"0,3382","0,4984",✗
+Localisation,all-mpnet-base-v2,E33_Linguistic_Object,P56_bears_feature,✗,"0,3382","0,495",✗
+Localisation,all-mpnet-base-v2,E33_Linguistic_Object,P89_falls_within,✗,"0,3382","0,4935",✗
+Localisation,all-mpnet-base-v2,E33_Linguistic_Object,P138_represents,✗,"0,3382","0,4892",✗
+Localisation,all-mpnet-base-v2,E33_Linguistic_Object,P126_employed,✗,"0,3382","0,4839",✗
+Localisation,all-mpnet-base-v2,E33_Linguistic_Object,P168_place_is_defined_by,✗,"0,3382","0,4738",✗
+Localisation,all-mpnet-base-v2,E33_Linguistic_Object,P165_incorporates,✗,"0,3382","0,4726",✗
+Localisation,all-mpnet-base-v2,E33_Linguistic_Object,P198_holds_or_supports,✗,"0,3382","0,4702",✗
+Etendue,all-mpnet-base-v2,E27_Site,P197_covered_parts_of,✗,"0,4495","0,5398",✗
+Etendue,all-mpnet-base-v2,E27_Site,P56_bears_feature,✓,"0,4495","0,5078",✗
+Etendue,all-mpnet-base-v2,E27_Site,P189_approximates,✗,"0,4495","0,4778",✗
+Etendue,all-mpnet-base-v2,E27_Site,P32_used_general_technique,✗,"0,4495","0,4674",✗
+Etendue,all-mpnet-base-v2,E27_Site,P46_is_composed_of,✓,"0,4495","0,4551",✗
+Etendue,all-mpnet-base-v2,E27_Site,P136_was_based_on,✗,"0,4495","0,4442",✗
+Etendue,all-mpnet-base-v2,E27_Site,P126_employed,✗,"0,4495","0,4402",✗
+Etendue,all-mpnet-base-v2,E27_Site,P138_represents,✗,"0,4495","0,4395",✗
+Etendue,all-mpnet-base-v2,E27_Site,P130_shows_features_of,✓,"0,4495","0,4169",✗
+Etendue,all-mpnet-base-v2,E27_Site,P27_moved_from,✗,"0,4495","0,4084",✗
+Etendue,all-mpnet-base-v2,E53_Place,P197_covered_parts_of,✗,"0,426","0,5398",✗
+Etendue,all-mpnet-base-v2,E53_Place,P56_bears_feature,✗,"0,426","0,5078",✗
+Etendue,all-mpnet-base-v2,E53_Place,P189_approximates,✗,"0,426","0,4778",✗
+Etendue,all-mpnet-base-v2,E53_Place,P32_used_general_technique,✗,"0,426","0,4674",✗
+Etendue,all-mpnet-base-v2,E53_Place,P46_is_composed_of,✗,"0,426","0,4551",✗
+Etendue,all-mpnet-base-v2,E53_Place,P136_was_based_on,✗,"0,426","0,4442",✗
+Etendue,all-mpnet-base-v2,E53_Place,P126_employed,✗,"0,426","0,4402",✗
+Etendue,all-mpnet-base-v2,E53_Place,P138_represents,✗,"0,426","0,4395",✗
+Etendue,all-mpnet-base-v2,E53_Place,P130_shows_features_of,✗,"0,426","0,4169",✗
+Etendue,all-mpnet-base-v2,E53_Place,P27_moved_from,✗,"0,426","0,4084",✗
+Etendue,all-mpnet-base-v2,E79_Part_Addition,P197_covered_parts_of,✗,"0,3556","0,5398",✗
+Etendue,all-mpnet-base-v2,E79_Part_Addition,P56_bears_feature,✗,"0,3556","0,5078",✗
+Etendue,all-mpnet-base-v2,E79_Part_Addition,P189_approximates,✗,"0,3556","0,4778",✗
+Etendue,all-mpnet-base-v2,E79_Part_Addition,P32_used_general_technique,✗,"0,3556","0,4674",✗
+Etendue,all-mpnet-base-v2,E79_Part_Addition,P46_is_composed_of,✗,"0,3556","0,4551",✗
+Etendue,all-mpnet-base-v2,E79_Part_Addition,P136_was_based_on,✗,"0,3556","0,4442",✗
+Etendue,all-mpnet-base-v2,E79_Part_Addition,P126_employed,✗,"0,3556","0,4402",✗
+Etendue,all-mpnet-base-v2,E79_Part_Addition,P138_represents,✗,"0,3556","0,4395",✗
+Etendue,all-mpnet-base-v2,E79_Part_Addition,P130_shows_features_of,✗,"0,3556","0,4169",✗
+Etendue,all-mpnet-base-v2,E79_Part_Addition,P27_moved_from,✗,"0,3556","0,4084",✗
+Etendue,all-mpnet-base-v2,E54_Dimension,P197_covered_parts_of,✗,"0,3466","0,5398",✗
+Etendue,all-mpnet-base-v2,E54_Dimension,P56_bears_feature,✗,"0,3466","0,5078",✗
+Etendue,all-mpnet-base-v2,E54_Dimension,P189_approximates,✗,"0,3466","0,4778",✗
+Etendue,all-mpnet-base-v2,E54_Dimension,P32_used_general_technique,✗,"0,3466","0,4674",✗
+Etendue,all-mpnet-base-v2,E54_Dimension,P46_is_composed_of,✗,"0,3466","0,4551",✗
+Etendue,all-mpnet-base-v2,E54_Dimension,P136_was_based_on,✗,"0,3466","0,4442",✗
+Etendue,all-mpnet-base-v2,E54_Dimension,P126_employed,✗,"0,3466","0,4402",✗
+Etendue,all-mpnet-base-v2,E54_Dimension,P138_represents,✗,"0,3466","0,4395",✗
+Etendue,all-mpnet-base-v2,E54_Dimension,P130_shows_features_of,✗,"0,3466","0,4169",✗
+Etendue,all-mpnet-base-v2,E54_Dimension,P27_moved_from,✗,"0,3466","0,4084",✗
+Etendue,all-mpnet-base-v2,E26_Physical_Feature,P197_covered_parts_of,✗,"0,3299","0,5398",✗
+Etendue,all-mpnet-base-v2,E26_Physical_Feature,P56_bears_feature,✓,"0,3299","0,5078",✗
+Etendue,all-mpnet-base-v2,E26_Physical_Feature,P189_approximates,✗,"0,3299","0,4778",✗
+Etendue,all-mpnet-base-v2,E26_Physical_Feature,P32_used_general_technique,✗,"0,3299","0,4674",✗
+Etendue,all-mpnet-base-v2,E26_Physical_Feature,P46_is_composed_of,✓,"0,3299","0,4551",✗
+Etendue,all-mpnet-base-v2,E26_Physical_Feature,P136_was_based_on,✗,"0,3299","0,4442",✗
+Etendue,all-mpnet-base-v2,E26_Physical_Feature,P126_employed,✗,"0,3299","0,4402",✗
+Etendue,all-mpnet-base-v2,E26_Physical_Feature,P138_represents,✗,"0,3299","0,4395",✗
+Etendue,all-mpnet-base-v2,E26_Physical_Feature,P130_shows_features_of,✓,"0,3299","0,4169",✗
+Etendue,all-mpnet-base-v2,E26_Physical_Feature,P27_moved_from,✗,"0,3299","0,4084",✗
+Antérieur à,all-mpnet-base-v2,E34_Inscription,P65_shows_visual_item,✓,"0,4651","0,5406",✗
+Antérieur à,all-mpnet-base-v2,E34_Inscription,P62_depicts,✓,"0,4651","0,5213",✗
+Antérieur à,all-mpnet-base-v2,E34_Inscription,P32_used_general_technique,✗,"0,4651","0,5017",✗
+Antérieur à,all-mpnet-base-v2,E34_Inscription,P138_represents,✗,"0,4651","0,4898",✗
+Antérieur à,all-mpnet-base-v2,E34_Inscription,P165_incorporates,✗,"0,4651","0,468",✗
+Antérieur à,all-mpnet-base-v2,E34_Inscription,P128_carries,✓,"0,4651","0,4596",✗
+Antérieur à,all-mpnet-base-v2,E34_Inscription,P136_was_based_on,✗,"0,4651","0,4581",✗
+Antérieur à,all-mpnet-base-v2,E34_Inscription,P126_employed,✗,"0,4651","0,4246",✗
+Antérieur à,all-mpnet-base-v2,E34_Inscription,P139_has_alternative_form,✗,"0,4651","0,4227",✗
+Antérieur à,all-mpnet-base-v2,E34_Inscription,P42_assigned,✗,"0,4651","0,421",✗
+Antérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P65_shows_visual_item,✗,"0,4592","0,5406",✗
+Antérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P62_depicts,✓,"0,4592","0,5213",✗
+Antérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P32_used_general_technique,✗,"0,4592","0,5017",✗
+Antérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P138_represents,✗,"0,4592","0,4898",✗
+Antérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P165_incorporates,✗,"0,4592","0,468",✗
+Antérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P128_carries,✗,"0,4592","0,4596",✗
+Antérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P136_was_based_on,✗,"0,4592","0,4581",✗
+Antérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P126_employed,✗,"0,4592","0,4246",✗
+Antérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P139_has_alternative_form,✗,"0,4592","0,4227",✗
+Antérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P42_assigned,✗,"0,4592","0,421",✗
+Antérieur à,all-mpnet-base-v2,E37_Mark,P65_shows_visual_item,✓,"0,4388","0,5406",✗
+Antérieur à,all-mpnet-base-v2,E37_Mark,P62_depicts,✓,"0,4388","0,5213",✗
+Antérieur à,all-mpnet-base-v2,E37_Mark,P32_used_general_technique,✗,"0,4388","0,5017",✗
+Antérieur à,all-mpnet-base-v2,E37_Mark,P138_represents,✗,"0,4388","0,4898",✗
+Antérieur à,all-mpnet-base-v2,E37_Mark,P165_incorporates,✗,"0,4388","0,468",✗
+Antérieur à,all-mpnet-base-v2,E37_Mark,P128_carries,✓,"0,4388","0,4596",✗
+Antérieur à,all-mpnet-base-v2,E37_Mark,P136_was_based_on,✗,"0,4388","0,4581",✗
+Antérieur à,all-mpnet-base-v2,E37_Mark,P126_employed,✗,"0,4388","0,4246",✗
+Antérieur à,all-mpnet-base-v2,E37_Mark,P139_has_alternative_form,✗,"0,4388","0,4227",✗
+Antérieur à,all-mpnet-base-v2,E37_Mark,P42_assigned,✗,"0,4388","0,421",✗
+Antérieur à,all-mpnet-base-v2,E99_Product_Type,P65_shows_visual_item,✗,"0,4319","0,5406",✗
+Antérieur à,all-mpnet-base-v2,E99_Product_Type,P62_depicts,✓,"0,4319","0,5213",✗
+Antérieur à,all-mpnet-base-v2,E99_Product_Type,P32_used_general_technique,✗,"0,4319","0,5017",✗
+Antérieur à,all-mpnet-base-v2,E99_Product_Type,P138_represents,✗,"0,4319","0,4898",✗
+Antérieur à,all-mpnet-base-v2,E99_Product_Type,P165_incorporates,✗,"0,4319","0,468",✗
+Antérieur à,all-mpnet-base-v2,E99_Product_Type,P128_carries,✗,"0,4319","0,4596",✗
+Antérieur à,all-mpnet-base-v2,E99_Product_Type,P136_was_based_on,✗,"0,4319","0,4581",✗
+Antérieur à,all-mpnet-base-v2,E99_Product_Type,P126_employed,✗,"0,4319","0,4246",✗
+Antérieur à,all-mpnet-base-v2,E99_Product_Type,P139_has_alternative_form,✗,"0,4319","0,4227",✗
+Antérieur à,all-mpnet-base-v2,E99_Product_Type,P42_assigned,✗,"0,4319","0,421",✗
+Antérieur à,all-mpnet-base-v2,E42_Identifier,P65_shows_visual_item,✗,"0,418","0,5406",✗
+Antérieur à,all-mpnet-base-v2,E42_Identifier,P62_depicts,✓,"0,418","0,5213",✗
+Antérieur à,all-mpnet-base-v2,E42_Identifier,P32_used_general_technique,✗,"0,418","0,5017",✗
+Antérieur à,all-mpnet-base-v2,E42_Identifier,P138_represents,✗,"0,418","0,4898",✗
+Antérieur à,all-mpnet-base-v2,E42_Identifier,P165_incorporates,✗,"0,418","0,468",✗
+Antérieur à,all-mpnet-base-v2,E42_Identifier,P128_carries,✓,"0,418","0,4596",✓
+Antérieur à,all-mpnet-base-v2,E42_Identifier,P136_was_based_on,✗,"0,418","0,4581",✗
+Antérieur à,all-mpnet-base-v2,E42_Identifier,P126_employed,✗,"0,418","0,4246",✗
+Antérieur à,all-mpnet-base-v2,E42_Identifier,P139_has_alternative_form,✗,"0,418","0,4227",✗
+Antérieur à,all-mpnet-base-v2,E42_Identifier,P42_assigned,✗,"0,418","0,421",✗
+Postérieur à,all-mpnet-base-v2,E31_Document,P139_has_alternative_form,✗,"0,41","0,5318",✗
+Postérieur à,all-mpnet-base-v2,E31_Document,P138_represents,✗,"0,41","0,5304",✗
+Postérieur à,all-mpnet-base-v2,E31_Document,P128_carries,✓,"0,41","0,5184",✗
+Postérieur à,all-mpnet-base-v2,E31_Document,P142_used_constituent,✗,"0,41","0,5164",✗
+Postérieur à,all-mpnet-base-v2,E31_Document,P65_shows_visual_item,✗,"0,41","0,5135",✗
+Postérieur à,all-mpnet-base-v2,E31_Document,P165_incorporates,✗,"0,41","0,509",✗
+Postérieur à,all-mpnet-base-v2,E31_Document,P126_employed,✗,"0,41","0,5064",✗
+Postérieur à,all-mpnet-base-v2,E31_Document,P136_was_based_on,✗,"0,41","0,5033",✗
+Postérieur à,all-mpnet-base-v2,E31_Document,P32_used_general_technique,✗,"0,41","0,5023",✗
+Postérieur à,all-mpnet-base-v2,E31_Document,P1_is_identified_by,✗,"0,41","0,4982",✗
+Postérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P139_has_alternative_form,✗,"0,4056","0,5318",✗
+Postérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P138_represents,✗,"0,4056","0,5304",✗
+Postérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P128_carries,✗,"0,4056","0,5184",✗
+Postérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P142_used_constituent,✗,"0,4056","0,5164",✗
+Postérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P65_shows_visual_item,✗,"0,4056","0,5135",✗
+Postérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P165_incorporates,✗,"0,4056","0,509",✗
+Postérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P126_employed,✗,"0,4056","0,5064",✗
+Postérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P136_was_based_on,✗,"0,4056","0,5033",✗
+Postérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P32_used_general_technique,✗,"0,4056","0,5023",✗
+Postérieur à,all-mpnet-base-v2,E71_Human-Made_Thing,P1_is_identified_by,✗,"0,4056","0,4982",✗
+Postérieur à,all-mpnet-base-v2,E41_Appellation,P139_has_alternative_form,✗,"0,4034","0,5318",✗
+Postérieur à,all-mpnet-base-v2,E41_Appellation,P138_represents,✗,"0,4034","0,5304",✗
+Postérieur à,all-mpnet-base-v2,E41_Appellation,P128_carries,✓,"0,4034","0,5184",✓
+Postérieur à,all-mpnet-base-v2,E41_Appellation,P142_used_constituent,✗,"0,4034","0,5164",✗
+Postérieur à,all-mpnet-base-v2,E41_Appellation,P65_shows_visual_item,✗,"0,4034","0,5135",✗
+Postérieur à,all-mpnet-base-v2,E41_Appellation,P165_incorporates,✗,"0,4034","0,509",✗
+Postérieur à,all-mpnet-base-v2,E41_Appellation,P126_employed,✗,"0,4034","0,5064",✗
+Postérieur à,all-mpnet-base-v2,E41_Appellation,P136_was_based_on,✗,"0,4034","0,5033",✗
+Postérieur à,all-mpnet-base-v2,E41_Appellation,P32_used_general_technique,✗,"0,4034","0,5023",✗
+Postérieur à,all-mpnet-base-v2,E41_Appellation,P1_is_identified_by,✓,"0,4034","0,4982",✓
+Postérieur à,all-mpnet-base-v2,E34_Inscription,P139_has_alternative_form,✗,"0,3887","0,5318",✗
+Postérieur à,all-mpnet-base-v2,E34_Inscription,P138_represents,✗,"0,3887","0,5304",✗
+Postérieur à,all-mpnet-base-v2,E34_Inscription,P128_carries,✓,"0,3887","0,5184",✗
+Postérieur à,all-mpnet-base-v2,E34_Inscription,P142_used_constituent,✗,"0,3887","0,5164",✗
+Postérieur à,all-mpnet-base-v2,E34_Inscription,P65_shows_visual_item,✓,"0,3887","0,5135",✗
+Postérieur à,all-mpnet-base-v2,E34_Inscription,P165_incorporates,✗,"0,3887","0,509",✗
+Postérieur à,all-mpnet-base-v2,E34_Inscription,P126_employed,✗,"0,3887","0,5064",✗
+Postérieur à,all-mpnet-base-v2,E34_Inscription,P136_was_based_on,✗,"0,3887","0,5033",✗
+Postérieur à,all-mpnet-base-v2,E34_Inscription,P32_used_general_technique,✗,"0,3887","0,5023",✗
+Postérieur à,all-mpnet-base-v2,E34_Inscription,P1_is_identified_by,✗,"0,3887","0,4982",✗
+Postérieur à,all-mpnet-base-v2,E37_Mark,P139_has_alternative_form,✗,"0,3807","0,5318",✗
+Postérieur à,all-mpnet-base-v2,E37_Mark,P138_represents,✗,"0,3807","0,5304",✗
+Postérieur à,all-mpnet-base-v2,E37_Mark,P128_carries,✓,"0,3807","0,5184",✗
+Postérieur à,all-mpnet-base-v2,E37_Mark,P142_used_constituent,✗,"0,3807","0,5164",✗
+Postérieur à,all-mpnet-base-v2,E37_Mark,P65_shows_visual_item,✓,"0,3807","0,5135",✗
+Postérieur à,all-mpnet-base-v2,E37_Mark,P165_incorporates,✗,"0,3807","0,509",✗
+Postérieur à,all-mpnet-base-v2,E37_Mark,P126_employed,✗,"0,3807","0,5064",✗
+Postérieur à,all-mpnet-base-v2,E37_Mark,P136_was_based_on,✗,"0,3807","0,5033",✗
+Postérieur à,all-mpnet-base-v2,E37_Mark,P32_used_general_technique,✗,"0,3807","0,5023",✗
+Postérieur à,all-mpnet-base-v2,E37_Mark,P1_is_identified_by,✗,"0,3807","0,4982",✗
+Egal à ,all-mpnet-base-v2,E96_Purchase,P126_employed,✗,"0,1849","0,5363",✗
+Egal à ,all-mpnet-base-v2,E96_Purchase,P179_had_sales_price,✗,"0,1849","0,5345",✗
+Egal à ,all-mpnet-base-v2,E96_Purchase,P16_used_specific_object,✗,"0,1849","0,5182",✗
+Egal à ,all-mpnet-base-v2,E96_Purchase,P108_has_produced,✗,"0,1849","0,514",✗
+Egal à ,all-mpnet-base-v2,E96_Purchase,P186_produced_thing_of_product_type,✗,"0,1849","0,4927",✗
+Egal à ,all-mpnet-base-v2,E96_Purchase,P101_had_as_general_use,✗,"0,1849","0,4917",✗
+Egal à ,all-mpnet-base-v2,E96_Purchase,P136_was_based_on,✗,"0,1849","0,4626",✗
+Egal à ,all-mpnet-base-v2,E96_Purchase,P34_concerned,✗,"0,1849","0,4565",✗
+Egal à ,all-mpnet-base-v2,E96_Purchase,P103_was_intended_for,✗,"0,1849","0,4545",✗
+Egal à ,all-mpnet-base-v2,E96_Purchase,P75_possesses,✗,"0,1849","0,4513",✗
+Egal à ,all-mpnet-base-v2,E30_Right,P126_employed,✗,"0,1763","0,5363",✗
+Egal à ,all-mpnet-base-v2,E30_Right,P179_had_sales_price,✗,"0,1763","0,5345",✗
+Egal à ,all-mpnet-base-v2,E30_Right,P16_used_specific_object,✗,"0,1763","0,5182",✗
+Egal à ,all-mpnet-base-v2,E30_Right,P108_has_produced,✗,"0,1763","0,514",✗
+Egal à ,all-mpnet-base-v2,E30_Right,P186_produced_thing_of_product_type,✗,"0,1763","0,4927",✗
+Egal à ,all-mpnet-base-v2,E30_Right,P101_had_as_general_use,✗,"0,1763","0,4917",✗
+Egal à ,all-mpnet-base-v2,E30_Right,P136_was_based_on,✗,"0,1763","0,4626",✗
+Egal à ,all-mpnet-base-v2,E30_Right,P34_concerned,✗,"0,1763","0,4565",✗
+Egal à ,all-mpnet-base-v2,E30_Right,P103_was_intended_for,✗,"0,1763","0,4545",✗
+Egal à ,all-mpnet-base-v2,E30_Right,P75_possesses,✗,"0,1763","0,4513",✗
+Egal à ,all-mpnet-base-v2,E7_Activity,P126_employed,✗,"0,1752","0,5363",✗
+Egal à ,all-mpnet-base-v2,E7_Activity,P179_had_sales_price,✗,"0,1752","0,5345",✗
+Egal à ,all-mpnet-base-v2,E7_Activity,P16_used_specific_object,✗,"0,1752","0,5182",✗
+Egal à ,all-mpnet-base-v2,E7_Activity,P108_has_produced,✗,"0,1752","0,514",✗
+Egal à ,all-mpnet-base-v2,E7_Activity,P186_produced_thing_of_product_type,✗,"0,1752","0,4927",✗
+Egal à ,all-mpnet-base-v2,E7_Activity,P101_had_as_general_use,✗,"0,1752","0,4917",✗
+Egal à ,all-mpnet-base-v2,E7_Activity,P136_was_based_on,✗,"0,1752","0,4626",✗
+Egal à ,all-mpnet-base-v2,E7_Activity,P34_concerned,✗,"0,1752","0,4565",✗
+Egal à ,all-mpnet-base-v2,E7_Activity,P103_was_intended_for,✗,"0,1752","0,4545",✗
+Egal à ,all-mpnet-base-v2,E7_Activity,P75_possesses,✗,"0,1752","0,4513",✗
+Egal à ,all-mpnet-base-v2,E56_Language,P126_employed,✗,"0,1706","0,5363",✗
+Egal à ,all-mpnet-base-v2,E56_Language,P179_had_sales_price,✗,"0,1706","0,5345",✗
+Egal à ,all-mpnet-base-v2,E56_Language,P16_used_specific_object,✗,"0,1706","0,5182",✗
+Egal à ,all-mpnet-base-v2,E56_Language,P108_has_produced,✗,"0,1706","0,514",✗
+Egal à ,all-mpnet-base-v2,E56_Language,P186_produced_thing_of_product_type,✗,"0,1706","0,4927",✗
+Egal à ,all-mpnet-base-v2,E56_Language,P101_had_as_general_use,✓,"0,1706","0,4917",✗
+Egal à ,all-mpnet-base-v2,E56_Language,P136_was_based_on,✗,"0,1706","0,4626",✗
+Egal à ,all-mpnet-base-v2,E56_Language,P34_concerned,✗,"0,1706","0,4565",✗
+Egal à ,all-mpnet-base-v2,E56_Language,P103_was_intended_for,✓,"0,1706","0,4545",✗
+Egal à ,all-mpnet-base-v2,E56_Language,P75_possesses,✗,"0,1706","0,4513",✗
+Egal à ,all-mpnet-base-v2,E58_Measurement_Unit,P126_employed,✗,"0,1674","0,5363",✗
+Egal à ,all-mpnet-base-v2,E58_Measurement_Unit,P179_had_sales_price,✗,"0,1674","0,5345",✗
+Egal à ,all-mpnet-base-v2,E58_Measurement_Unit,P16_used_specific_object,✗,"0,1674","0,5182",✗
+Egal à ,all-mpnet-base-v2,E58_Measurement_Unit,P108_has_produced,✗,"0,1674","0,514",✗
+Egal à ,all-mpnet-base-v2,E58_Measurement_Unit,P186_produced_thing_of_product_type,✗,"0,1674","0,4927",✗
+Egal à ,all-mpnet-base-v2,E58_Measurement_Unit,P101_had_as_general_use,✓,"0,1674","0,4917",✗
+Egal à ,all-mpnet-base-v2,E58_Measurement_Unit,P136_was_based_on,✗,"0,1674","0,4626",✗
+Egal à ,all-mpnet-base-v2,E58_Measurement_Unit,P34_concerned,✗,"0,1674","0,4565",✗
+Egal à ,all-mpnet-base-v2,E58_Measurement_Unit,P103_was_intended_for,✓,"0,1674","0,4545",✗
+Egal à ,all-mpnet-base-v2,E58_Measurement_Unit,P75_possesses,✗,"0,1674","0,4513",✗
+Etat,all-mpnet-base-v2,E32_Authority_Document,P136_was_based_on,✗,"0,3245","0,5009",✗
+Etat,all-mpnet-base-v2,E32_Authority_Document,P139_has_alternative_form,✗,"0,3245","0,493",✗
+Etat,all-mpnet-base-v2,E32_Authority_Document,P23_transferred_title_from,✗,"0,3245","0,4917",✗
+Etat,all-mpnet-base-v2,E32_Authority_Document,P70_documents,✗,"0,3245","0,4782",✗
+Etat,all-mpnet-base-v2,E32_Authority_Document,P138_represents,✗,"0,3245","0,478",✗
+Etat,all-mpnet-base-v2,E32_Authority_Document,P65_shows_visual_item,✗,"0,3245","0,4758",✗
+Etat,all-mpnet-base-v2,E32_Authority_Document,P13_destroyed,✗,"0,3245","0,4713",✗
+Etat,all-mpnet-base-v2,E32_Authority_Document,P49_has_former_or_current_keeper,✗,"0,3245","0,4702",✗
+Etat,all-mpnet-base-v2,E32_Authority_Document,P22_transferred_title_to,✗,"0,3245","0,4687",✗
+Etat,all-mpnet-base-v2,E32_Authority_Document,P71_lists,✗,"0,3245","0,4663",✗
+Etat,all-mpnet-base-v2,E14_Condition_Assessment,P136_was_based_on,✗,"0,3096","0,5009",✗
+Etat,all-mpnet-base-v2,E14_Condition_Assessment,P139_has_alternative_form,✗,"0,3096","0,493",✗
+Etat,all-mpnet-base-v2,E14_Condition_Assessment,P23_transferred_title_from,✗,"0,3096","0,4917",✗
+Etat,all-mpnet-base-v2,E14_Condition_Assessment,P70_documents,✗,"0,3096","0,4782",✗
+Etat,all-mpnet-base-v2,E14_Condition_Assessment,P138_represents,✗,"0,3096","0,478",✗
+Etat,all-mpnet-base-v2,E14_Condition_Assessment,P65_shows_visual_item,✗,"0,3096","0,4758",✗
+Etat,all-mpnet-base-v2,E14_Condition_Assessment,P13_destroyed,✗,"0,3096","0,4713",✗
+Etat,all-mpnet-base-v2,E14_Condition_Assessment,P49_has_former_or_current_keeper,✗,"0,3096","0,4702",✗
+Etat,all-mpnet-base-v2,E14_Condition_Assessment,P22_transferred_title_to,✗,"0,3096","0,4687",✗
+Etat,all-mpnet-base-v2,E14_Condition_Assessment,P71_lists,✗,"0,3096","0,4663",✗
+Etat,all-mpnet-base-v2,E81_Transformation,P136_was_based_on,✗,"0,3013","0,5009",✗
+Etat,all-mpnet-base-v2,E81_Transformation,P139_has_alternative_form,✗,"0,3013","0,493",✗
+Etat,all-mpnet-base-v2,E81_Transformation,P23_transferred_title_from,✗,"0,3013","0,4917",✗
+Etat,all-mpnet-base-v2,E81_Transformation,P70_documents,✗,"0,3013","0,4782",✗
+Etat,all-mpnet-base-v2,E81_Transformation,P138_represents,✗,"0,3013","0,478",✗
+Etat,all-mpnet-base-v2,E81_Transformation,P65_shows_visual_item,✗,"0,3013","0,4758",✗
+Etat,all-mpnet-base-v2,E81_Transformation,P13_destroyed,✗,"0,3013","0,4713",✗
+Etat,all-mpnet-base-v2,E81_Transformation,P49_has_former_or_current_keeper,✗,"0,3013","0,4702",✗
+Etat,all-mpnet-base-v2,E81_Transformation,P22_transferred_title_to,✗,"0,3013","0,4687",✗
+Etat,all-mpnet-base-v2,E81_Transformation,P71_lists,✗,"0,3013","0,4663",✗
+Etat,all-mpnet-base-v2,E65_Creation,P136_was_based_on,✗,"0,2986","0,5009",✗
+Etat,all-mpnet-base-v2,E65_Creation,P139_has_alternative_form,✗,"0,2986","0,493",✗
+Etat,all-mpnet-base-v2,E65_Creation,P23_transferred_title_from,✗,"0,2986","0,4917",✗
+Etat,all-mpnet-base-v2,E65_Creation,P70_documents,✗,"0,2986","0,4782",✗
+Etat,all-mpnet-base-v2,E65_Creation,P138_represents,✗,"0,2986","0,478",✗
+Etat,all-mpnet-base-v2,E65_Creation,P65_shows_visual_item,✗,"0,2986","0,4758",✗
+Etat,all-mpnet-base-v2,E65_Creation,P13_destroyed,✗,"0,2986","0,4713",✗
+Etat,all-mpnet-base-v2,E65_Creation,P49_has_former_or_current_keeper,✗,"0,2986","0,4702",✗
+Etat,all-mpnet-base-v2,E65_Creation,P22_transferred_title_to,✗,"0,2986","0,4687",✗
+Etat,all-mpnet-base-v2,E65_Creation,P71_lists,✗,"0,2986","0,4663",✗
+Etat,all-mpnet-base-v2,E4_Period,P136_was_based_on,✗,"0,2669","0,5009",✗
+Etat,all-mpnet-base-v2,E4_Period,P139_has_alternative_form,✗,"0,2669","0,493",✗
+Etat,all-mpnet-base-v2,E4_Period,P23_transferred_title_from,✗,"0,2669","0,4917",✗
+Etat,all-mpnet-base-v2,E4_Period,P70_documents,✗,"0,2669","0,4782",✗
+Etat,all-mpnet-base-v2,E4_Period,P138_represents,✗,"0,2669","0,478",✗
+Etat,all-mpnet-base-v2,E4_Period,P65_shows_visual_item,✗,"0,2669","0,4758",✗
+Etat,all-mpnet-base-v2,E4_Period,P13_destroyed,✗,"0,2669","0,4713",✗
+Etat,all-mpnet-base-v2,E4_Period,P49_has_former_or_current_keeper,✗,"0,2669","0,4702",✗
+Etat,all-mpnet-base-v2,E4_Period,P22_transferred_title_to,✗,"0,2669","0,4687",✗
+Etat,all-mpnet-base-v2,E4_Period,P71_lists,✗,"0,2669","0,4663",✗
+Mortier,all-mpnet-base-v2,E69_Death,P13_destroyed,✗,"0,3545","0,5657",✗
+Mortier,all-mpnet-base-v2,E69_Death,P100_was_death_of,✗,"0,3545","0,5448",✗
+Mortier,all-mpnet-base-v2,E69_Death,P98_brought_into_life,✗,"0,3545","0,4967",✗
+Mortier,all-mpnet-base-v2,E69_Death,P97_from_father,✗,"0,3545","0,4617",✗
+Mortier,all-mpnet-base-v2,E69_Death,P96_by_mother,✗,"0,3545","0,4571",✗
+Mortier,all-mpnet-base-v2,E69_Death,P137_exemplifies,✗,"0,3545","0,4377",✗
+Mortier,all-mpnet-base-v2,E69_Death,P126_employed,✗,"0,3545","0,4334",✗
+Mortier,all-mpnet-base-v2,E69_Death,P93_took_out_of_existence,✗,"0,3545","0,4195",✗
+Mortier,all-mpnet-base-v2,E69_Death,P186_produced_thing_of_product_type,✗,"0,3545","0,4125",✗
+Mortier,all-mpnet-base-v2,E69_Death,P46_is_composed_of,✗,"0,3545","0,4107",✗
+Mortier,all-mpnet-base-v2,E20_Biological_Object,P13_destroyed,✗,"0,3482","0,5657",✗
+Mortier,all-mpnet-base-v2,E20_Biological_Object,P100_was_death_of,✗,"0,3482","0,5448",✗
+Mortier,all-mpnet-base-v2,E20_Biological_Object,P98_brought_into_life,✗,"0,3482","0,4967",✗
+Mortier,all-mpnet-base-v2,E20_Biological_Object,P97_from_father,✗,"0,3482","0,4617",✗
+Mortier,all-mpnet-base-v2,E20_Biological_Object,P96_by_mother,✗,"0,3482","0,4571",✗
+Mortier,all-mpnet-base-v2,E20_Biological_Object,P137_exemplifies,✗,"0,3482","0,4377",✗
+Mortier,all-mpnet-base-v2,E20_Biological_Object,P126_employed,✗,"0,3482","0,4334",✗
+Mortier,all-mpnet-base-v2,E20_Biological_Object,P93_took_out_of_existence,✗,"0,3482","0,4195",✗
+Mortier,all-mpnet-base-v2,E20_Biological_Object,P186_produced_thing_of_product_type,✗,"0,3482","0,4125",✗
+Mortier,all-mpnet-base-v2,E20_Biological_Object,P46_is_composed_of,✓,"0,3482","0,4107",✗
+Mortier,all-mpnet-base-v2,E21_Person,P13_destroyed,✗,"0,2751","0,5657",✗
+Mortier,all-mpnet-base-v2,E21_Person,P100_was_death_of,✗,"0,2751","0,5448",✗
+Mortier,all-mpnet-base-v2,E21_Person,P98_brought_into_life,✗,"0,2751","0,4967",✗
+Mortier,all-mpnet-base-v2,E21_Person,P97_from_father,✗,"0,2751","0,4617",✗
+Mortier,all-mpnet-base-v2,E21_Person,P96_by_mother,✗,"0,2751","0,4571",✗
+Mortier,all-mpnet-base-v2,E21_Person,P137_exemplifies,✗,"0,2751","0,4377",✗
+Mortier,all-mpnet-base-v2,E21_Person,P126_employed,✗,"0,2751","0,4334",✗
+Mortier,all-mpnet-base-v2,E21_Person,P93_took_out_of_existence,✗,"0,2751","0,4195",✗
+Mortier,all-mpnet-base-v2,E21_Person,P186_produced_thing_of_product_type,✗,"0,2751","0,4125",✗
+Mortier,all-mpnet-base-v2,E21_Person,P46_is_composed_of,✓,"0,2751","0,4107",✗
+Mortier,all-mpnet-base-v2,E18_Physical_Thing,P13_destroyed,✗,"0,2571","0,5657",✗
+Mortier,all-mpnet-base-v2,E18_Physical_Thing,P100_was_death_of,✗,"0,2571","0,5448",✗
+Mortier,all-mpnet-base-v2,E18_Physical_Thing,P98_brought_into_life,✗,"0,2571","0,4967",✗
+Mortier,all-mpnet-base-v2,E18_Physical_Thing,P97_from_father,✗,"0,2571","0,4617",✗
+Mortier,all-mpnet-base-v2,E18_Physical_Thing,P96_by_mother,✗,"0,2571","0,4571",✗
+Mortier,all-mpnet-base-v2,E18_Physical_Thing,P137_exemplifies,✗,"0,2571","0,4377",✗
+Mortier,all-mpnet-base-v2,E18_Physical_Thing,P126_employed,✗,"0,2571","0,4334",✗
+Mortier,all-mpnet-base-v2,E18_Physical_Thing,P93_took_out_of_existence,✗,"0,2571","0,4195",✗
+Mortier,all-mpnet-base-v2,E18_Physical_Thing,P186_produced_thing_of_product_type,✗,"0,2571","0,4125",✗
+Mortier,all-mpnet-base-v2,E18_Physical_Thing,P46_is_composed_of,✓,"0,2571","0,4107",✓
+Mortier,all-mpnet-base-v2,E4_Period,P13_destroyed,✗,"0,2448","0,5657",✗
+Mortier,all-mpnet-base-v2,E4_Period,P100_was_death_of,✗,"0,2448","0,5448",✗
+Mortier,all-mpnet-base-v2,E4_Period,P98_brought_into_life,✗,"0,2448","0,4967",✗
+Mortier,all-mpnet-base-v2,E4_Period,P97_from_father,✗,"0,2448","0,4617",✗
+Mortier,all-mpnet-base-v2,E4_Period,P96_by_mother,✗,"0,2448","0,4571",✗
+Mortier,all-mpnet-base-v2,E4_Period,P137_exemplifies,✗,"0,2448","0,4377",✗
+Mortier,all-mpnet-base-v2,E4_Period,P126_employed,✗,"0,2448","0,4334",✗
+Mortier,all-mpnet-base-v2,E4_Period,P93_took_out_of_existence,✗,"0,2448","0,4195",✗
+Mortier,all-mpnet-base-v2,E4_Period,P186_produced_thing_of_product_type,✗,"0,2448","0,4125",✗
+Mortier,all-mpnet-base-v2,E4_Period,P46_is_composed_of,✗,"0,2448","0,4107",✗
+n° US,BM25-Okapi,E99_Product_Type,P177_assigned_property_of_type,✗,,"0,2496",✗
+n° US,BM25-Okapi,E99_Product_Type,P187_has_production_plan,✗,,"0,2382",✗
+n° US,BM25-Okapi,E99_Product_Type,P103_was_intended_for,✓,,"0,2302",✗
+n° US,BM25-Okapi,E99_Product_Type,P189_approximates,✗,,"0,2048",✗
+n° US,BM25-Okapi,E99_Product_Type,P183_ends_before_the_start_of,✗,,"0,1636",✗
+n° US,BM25-Okapi,E99_Product_Type,P161_has_spatial_projection,✗,,"0,163",✗
+n° US,BM25-Okapi,E99_Product_Type,P7_took_place_at,✗,,"0,1553",✗
+n° US,BM25-Okapi,E99_Product_Type,P156_occupies,✗,,"0,1553",✗
+n° US,BM25-Okapi,E99_Product_Type,P152_has_parent,✗,,"0,1533",✗
+n° US,BM25-Okapi,E99_Product_Type,P42_assigned,✗,,"0,1429",✗
+n° US,BM25-Okapi,E19_Physical_Object,P177_assigned_property_of_type,✗,,"0,2496",✗
+n° US,BM25-Okapi,E19_Physical_Object,P187_has_production_plan,✗,,"0,2382",✗
+n° US,BM25-Okapi,E19_Physical_Object,P103_was_intended_for,✗,,"0,2302",✗
+n° US,BM25-Okapi,E19_Physical_Object,P189_approximates,✗,,"0,2048",✗
+n° US,BM25-Okapi,E19_Physical_Object,P183_ends_before_the_start_of,✗,,"0,1636",✗
+n° US,BM25-Okapi,E19_Physical_Object,P161_has_spatial_projection,✗,,"0,163",✗
+n° US,BM25-Okapi,E19_Physical_Object,P7_took_place_at,✗,,"0,1553",✗
+n° US,BM25-Okapi,E19_Physical_Object,P156_occupies,✗,,"0,1553",✗
+n° US,BM25-Okapi,E19_Physical_Object,P152_has_parent,✗,,"0,1533",✗
+n° US,BM25-Okapi,E19_Physical_Object,P42_assigned,✗,,"0,1429",✗
+n° US,BM25-Okapi,E21_Person,P177_assigned_property_of_type,✗,,"0,2496",✗
+n° US,BM25-Okapi,E21_Person,P187_has_production_plan,✗,,"0,2382",✗
+n° US,BM25-Okapi,E21_Person,P103_was_intended_for,✗,,"0,2302",✗
+n° US,BM25-Okapi,E21_Person,P189_approximates,✗,,"0,2048",✗
+n° US,BM25-Okapi,E21_Person,P183_ends_before_the_start_of,✗,,"0,1636",✗
+n° US,BM25-Okapi,E21_Person,P161_has_spatial_projection,✗,,"0,163",✗
+n° US,BM25-Okapi,E21_Person,P7_took_place_at,✗,,"0,1553",✗
+n° US,BM25-Okapi,E21_Person,P156_occupies,✗,,"0,1553",✗
+n° US,BM25-Okapi,E21_Person,P152_has_parent,✗,,"0,1533",✗
+n° US,BM25-Okapi,E21_Person,P42_assigned,✗,,"0,1429",✗
+n° US,BM25-Okapi,E22_Human-Made_Object,P177_assigned_property_of_type,✗,,"0,2496",✗
+n° US,BM25-Okapi,E22_Human-Made_Object,P187_has_production_plan,✗,,"0,2382",✗
+n° US,BM25-Okapi,E22_Human-Made_Object,P103_was_intended_for,✗,,"0,2302",✗
+n° US,BM25-Okapi,E22_Human-Made_Object,P189_approximates,✗,,"0,2048",✗
+n° US,BM25-Okapi,E22_Human-Made_Object,P183_ends_before_the_start_of,✗,,"0,1636",✗
+n° US,BM25-Okapi,E22_Human-Made_Object,P161_has_spatial_projection,✗,,"0,163",✗
+n° US,BM25-Okapi,E22_Human-Made_Object,P7_took_place_at,✗,,"0,1553",✗
+n° US,BM25-Okapi,E22_Human-Made_Object,P156_occupies,✗,,"0,1553",✗
+n° US,BM25-Okapi,E22_Human-Made_Object,P152_has_parent,✗,,"0,1533",✗
+n° US,BM25-Okapi,E22_Human-Made_Object,P42_assigned,✗,,"0,1429",✗
+n° US,BM25-Okapi,E24_Physical_Human-Made_Thing,P177_assigned_property_of_type,✗,,"0,2496",✗
+n° US,BM25-Okapi,E24_Physical_Human-Made_Thing,P187_has_production_plan,✗,,"0,2382",✗
+n° US,BM25-Okapi,E24_Physical_Human-Made_Thing,P103_was_intended_for,✗,,"0,2302",✗
+n° US,BM25-Okapi,E24_Physical_Human-Made_Thing,P189_approximates,✗,,"0,2048",✗
+n° US,BM25-Okapi,E24_Physical_Human-Made_Thing,P183_ends_before_the_start_of,✗,,"0,1636",✗
+n° US,BM25-Okapi,E24_Physical_Human-Made_Thing,P161_has_spatial_projection,✗,,"0,163",✗
+n° US,BM25-Okapi,E24_Physical_Human-Made_Thing,P7_took_place_at,✗,,"0,1553",✗
+n° US,BM25-Okapi,E24_Physical_Human-Made_Thing,P156_occupies,✗,,"0,1553",✗
+n° US,BM25-Okapi,E24_Physical_Human-Made_Thing,P152_has_parent,✗,,"0,1533",✗
+n° US,BM25-Okapi,E24_Physical_Human-Made_Thing,P42_assigned,✗,,"0,1429",✗
+Localisation,BM25-Okapi,E99_Product_Type,P177_assigned_property_of_type,✗,,"0,26",✗
+Localisation,BM25-Okapi,E99_Product_Type,P103_was_intended_for,✓,,"0,2398",✗
+Localisation,BM25-Okapi,E99_Product_Type,P189_approximates,✗,,"0,2134",✗
+Localisation,BM25-Okapi,E99_Product_Type,P183_ends_before_the_start_of,✗,,"0,1704",✗
+Localisation,BM25-Okapi,E99_Product_Type,P7_took_place_at,✗,,"0,1618",✗
+Localisation,BM25-Okapi,E99_Product_Type,P156_occupies,✗,,"0,1618",✗
+Localisation,BM25-Okapi,E99_Product_Type,P152_has_parent,✗,,"0,1597",✗
+Localisation,BM25-Okapi,E99_Product_Type,P42_assigned,✗,,"0,1489",✗
+Localisation,BM25-Okapi,E99_Product_Type,P23_transferred_title_from,✗,,"0,1461",✗
+Localisation,BM25-Okapi,E99_Product_Type,P129_is_about,✗,,"0,1451",✗
+Localisation,BM25-Okapi,E19_Physical_Object,P177_assigned_property_of_type,✗,,"0,26",✗
+Localisation,BM25-Okapi,E19_Physical_Object,P103_was_intended_for,✗,,"0,2398",✗
+Localisation,BM25-Okapi,E19_Physical_Object,P189_approximates,✗,,"0,2134",✗
+Localisation,BM25-Okapi,E19_Physical_Object,P183_ends_before_the_start_of,✗,,"0,1704",✗
+Localisation,BM25-Okapi,E19_Physical_Object,P7_took_place_at,✗,,"0,1618",✗
+Localisation,BM25-Okapi,E19_Physical_Object,P156_occupies,✗,,"0,1618",✗
+Localisation,BM25-Okapi,E19_Physical_Object,P152_has_parent,✗,,"0,1597",✗
+Localisation,BM25-Okapi,E19_Physical_Object,P42_assigned,✗,,"0,1489",✗
+Localisation,BM25-Okapi,E19_Physical_Object,P23_transferred_title_from,✗,,"0,1461",✗
+Localisation,BM25-Okapi,E19_Physical_Object,P129_is_about,✗,,"0,1451",✗
+Localisation,BM25-Okapi,E21_Person,P177_assigned_property_of_type,✗,,"0,26",✗
+Localisation,BM25-Okapi,E21_Person,P103_was_intended_for,✗,,"0,2398",✗
+Localisation,BM25-Okapi,E21_Person,P189_approximates,✗,,"0,2134",✗
+Localisation,BM25-Okapi,E21_Person,P183_ends_before_the_start_of,✗,,"0,1704",✗
+Localisation,BM25-Okapi,E21_Person,P7_took_place_at,✗,,"0,1618",✗
+Localisation,BM25-Okapi,E21_Person,P156_occupies,✗,,"0,1618",✗
+Localisation,BM25-Okapi,E21_Person,P152_has_parent,✗,,"0,1597",✗
+Localisation,BM25-Okapi,E21_Person,P42_assigned,✗,,"0,1489",✗
+Localisation,BM25-Okapi,E21_Person,P23_transferred_title_from,✗,,"0,1461",✗
+Localisation,BM25-Okapi,E21_Person,P129_is_about,✗,,"0,1451",✗
+Localisation,BM25-Okapi,E22_Human-Made_Object,P177_assigned_property_of_type,✗,,"0,26",✗
+Localisation,BM25-Okapi,E22_Human-Made_Object,P103_was_intended_for,✗,,"0,2398",✗
+Localisation,BM25-Okapi,E22_Human-Made_Object,P189_approximates,✗,,"0,2134",✗
+Localisation,BM25-Okapi,E22_Human-Made_Object,P183_ends_before_the_start_of,✗,,"0,1704",✗
+Localisation,BM25-Okapi,E22_Human-Made_Object,P7_took_place_at,✗,,"0,1618",✗
+Localisation,BM25-Okapi,E22_Human-Made_Object,P156_occupies,✗,,"0,1618",✗
+Localisation,BM25-Okapi,E22_Human-Made_Object,P152_has_parent,✗,,"0,1597",✗
+Localisation,BM25-Okapi,E22_Human-Made_Object,P42_assigned,✗,,"0,1489",✗
+Localisation,BM25-Okapi,E22_Human-Made_Object,P23_transferred_title_from,✗,,"0,1461",✗
+Localisation,BM25-Okapi,E22_Human-Made_Object,P129_is_about,✗,,"0,1451",✗
+Localisation,BM25-Okapi,E24_Physical_Human-Made_Thing,P177_assigned_property_of_type,✗,,"0,26",✗
+Localisation,BM25-Okapi,E24_Physical_Human-Made_Thing,P103_was_intended_for,✗,,"0,2398",✗
+Localisation,BM25-Okapi,E24_Physical_Human-Made_Thing,P189_approximates,✗,,"0,2134",✗
+Localisation,BM25-Okapi,E24_Physical_Human-Made_Thing,P183_ends_before_the_start_of,✗,,"0,1704",✗
+Localisation,BM25-Okapi,E24_Physical_Human-Made_Thing,P7_took_place_at,✗,,"0,1618",✗
+Localisation,BM25-Okapi,E24_Physical_Human-Made_Thing,P156_occupies,✗,,"0,1618",✗
+Localisation,BM25-Okapi,E24_Physical_Human-Made_Thing,P152_has_parent,✗,,"0,1597",✗
+Localisation,BM25-Okapi,E24_Physical_Human-Made_Thing,P42_assigned,✗,,"0,1489",✗
+Localisation,BM25-Okapi,E24_Physical_Human-Made_Thing,P23_transferred_title_from,✗,,"0,1461",✗
+Localisation,BM25-Okapi,E24_Physical_Human-Made_Thing,P129_is_about,✗,,"0,1451",✗
+Etendue,BM25-Okapi,E99_Product_Type,P197_covered_parts_of,✗,,"0,3878",✗
+Etendue,BM25-Okapi,E99_Product_Type,P177_assigned_property_of_type,✗,,"0,2408",✗
+Etendue,BM25-Okapi,E99_Product_Type,P103_was_intended_for,✓,,"0,2221",✗
+Etendue,BM25-Okapi,E99_Product_Type,P189_approximates,✗,,"0,1976",✗
+Etendue,BM25-Okapi,E99_Product_Type,P183_ends_before_the_start_of,✗,,"0,1578",✗
+Etendue,BM25-Okapi,E99_Product_Type,P7_took_place_at,✗,,"0,1499",✗
+Etendue,BM25-Okapi,E99_Product_Type,P156_occupies,✗,,"0,1499",✗
+Etendue,BM25-Okapi,E99_Product_Type,P152_has_parent,✗,,"0,1479",✗
+Etendue,BM25-Okapi,E99_Product_Type,P42_assigned,✗,,"0,1379",✗
+Etendue,BM25-Okapi,E99_Product_Type,P23_transferred_title_from,✗,,"0,1353",✗
+Etendue,BM25-Okapi,E19_Physical_Object,P197_covered_parts_of,✗,,"0,3878",✗
+Etendue,BM25-Okapi,E19_Physical_Object,P177_assigned_property_of_type,✗,,"0,2408",✗
+Etendue,BM25-Okapi,E19_Physical_Object,P103_was_intended_for,✗,,"0,2221",✗
+Etendue,BM25-Okapi,E19_Physical_Object,P189_approximates,✗,,"0,1976",✗
+Etendue,BM25-Okapi,E19_Physical_Object,P183_ends_before_the_start_of,✗,,"0,1578",✗
+Etendue,BM25-Okapi,E19_Physical_Object,P7_took_place_at,✗,,"0,1499",✗
+Etendue,BM25-Okapi,E19_Physical_Object,P156_occupies,✗,,"0,1499",✗
+Etendue,BM25-Okapi,E19_Physical_Object,P152_has_parent,✗,,"0,1479",✗
+Etendue,BM25-Okapi,E19_Physical_Object,P42_assigned,✗,,"0,1379",✗
+Etendue,BM25-Okapi,E19_Physical_Object,P23_transferred_title_from,✗,,"0,1353",✗
+Etendue,BM25-Okapi,E21_Person,P197_covered_parts_of,✗,,"0,3878",✗
+Etendue,BM25-Okapi,E21_Person,P177_assigned_property_of_type,✗,,"0,2408",✗
+Etendue,BM25-Okapi,E21_Person,P103_was_intended_for,✗,,"0,2221",✗
+Etendue,BM25-Okapi,E21_Person,P189_approximates,✗,,"0,1976",✗
+Etendue,BM25-Okapi,E21_Person,P183_ends_before_the_start_of,✗,,"0,1578",✗
+Etendue,BM25-Okapi,E21_Person,P7_took_place_at,✗,,"0,1499",✗
+Etendue,BM25-Okapi,E21_Person,P156_occupies,✗,,"0,1499",✗
+Etendue,BM25-Okapi,E21_Person,P152_has_parent,✗,,"0,1479",✗
+Etendue,BM25-Okapi,E21_Person,P42_assigned,✗,,"0,1379",✗
+Etendue,BM25-Okapi,E21_Person,P23_transferred_title_from,✗,,"0,1353",✗
+Etendue,BM25-Okapi,E22_Human-Made_Object,P197_covered_parts_of,✗,,"0,3878",✗
+Etendue,BM25-Okapi,E22_Human-Made_Object,P177_assigned_property_of_type,✗,,"0,2408",✗
+Etendue,BM25-Okapi,E22_Human-Made_Object,P103_was_intended_for,✗,,"0,2221",✗
+Etendue,BM25-Okapi,E22_Human-Made_Object,P189_approximates,✗,,"0,1976",✗
+Etendue,BM25-Okapi,E22_Human-Made_Object,P183_ends_before_the_start_of,✗,,"0,1578",✗
+Etendue,BM25-Okapi,E22_Human-Made_Object,P7_took_place_at,✗,,"0,1499",✗
+Etendue,BM25-Okapi,E22_Human-Made_Object,P156_occupies,✗,,"0,1499",✗
+Etendue,BM25-Okapi,E22_Human-Made_Object,P152_has_parent,✗,,"0,1479",✗
+Etendue,BM25-Okapi,E22_Human-Made_Object,P42_assigned,✗,,"0,1379",✗
+Etendue,BM25-Okapi,E22_Human-Made_Object,P23_transferred_title_from,✗,,"0,1353",✗
+Etendue,BM25-Okapi,E24_Physical_Human-Made_Thing,P197_covered_parts_of,✗,,"0,3878",✗
+Etendue,BM25-Okapi,E24_Physical_Human-Made_Thing,P177_assigned_property_of_type,✗,,"0,2408",✗
+Etendue,BM25-Okapi,E24_Physical_Human-Made_Thing,P103_was_intended_for,✗,,"0,2221",✗
+Etendue,BM25-Okapi,E24_Physical_Human-Made_Thing,P189_approximates,✗,,"0,1976",✗
+Etendue,BM25-Okapi,E24_Physical_Human-Made_Thing,P183_ends_before_the_start_of,✗,,"0,1578",✗
+Etendue,BM25-Okapi,E24_Physical_Human-Made_Thing,P7_took_place_at,✗,,"0,1499",✗
+Etendue,BM25-Okapi,E24_Physical_Human-Made_Thing,P156_occupies,✗,,"0,1499",✗
+Etendue,BM25-Okapi,E24_Physical_Human-Made_Thing,P152_has_parent,✗,,"0,1479",✗
+Etendue,BM25-Okapi,E24_Physical_Human-Made_Thing,P42_assigned,✗,,"0,1379",✗
+Etendue,BM25-Okapi,E24_Physical_Human-Made_Thing,P23_transferred_title_from,✗,,"0,1353",✗
+Antérieur à,BM25-Okapi,E98_Currency,P177_assigned_property_of_type,✗,1,"0,26",✗
+Antérieur à,BM25-Okapi,E98_Currency,P103_was_intended_for,✓,1,"0,2398",✗
+Antérieur à,BM25-Okapi,E98_Currency,P189_approximates,✗,1,"0,2134",✗
+Antérieur à,BM25-Okapi,E98_Currency,P183_ends_before_the_start_of,✗,1,"0,1704",✗
+Antérieur à,BM25-Okapi,E98_Currency,P7_took_place_at,✗,1,"0,1618",✗
+Antérieur à,BM25-Okapi,E98_Currency,P156_occupies,✗,1,"0,1618",✗
+Antérieur à,BM25-Okapi,E98_Currency,P152_has_parent,✗,1,"0,1597",✗
+Antérieur à,BM25-Okapi,E98_Currency,P42_assigned,✗,1,"0,1489",✗
+Antérieur à,BM25-Okapi,E98_Currency,P23_transferred_title_from,✗,1,"0,1461",✗
+Antérieur à,BM25-Okapi,E98_Currency,P129_is_about,✗,1,"0,1451",✗
+Antérieur à,BM25-Okapi,E29_Design_or_Procedure,P177_assigned_property_of_type,✗,0,"0,26",✗
+Antérieur à,BM25-Okapi,E29_Design_or_Procedure,P103_was_intended_for,✗,0,"0,2398",✗
+Antérieur à,BM25-Okapi,E29_Design_or_Procedure,P189_approximates,✗,0,"0,2134",✗
+Antérieur à,BM25-Okapi,E29_Design_or_Procedure,P183_ends_before_the_start_of,✗,0,"0,1704",✗
+Antérieur à,BM25-Okapi,E29_Design_or_Procedure,P7_took_place_at,✗,0,"0,1618",✗
+Antérieur à,BM25-Okapi,E29_Design_or_Procedure,P156_occupies,✗,0,"0,1618",✗
+Antérieur à,BM25-Okapi,E29_Design_or_Procedure,P152_has_parent,✗,0,"0,1597",✗
+Antérieur à,BM25-Okapi,E29_Design_or_Procedure,P42_assigned,✗,0,"0,1489",✗
+Antérieur à,BM25-Okapi,E29_Design_or_Procedure,P23_transferred_title_from,✗,0,"0,1461",✗
+Antérieur à,BM25-Okapi,E29_Design_or_Procedure,P129_is_about,✗,0,"0,1451",✗
+Antérieur à,BM25-Okapi,E21_Person,P177_assigned_property_of_type,✗,0,"0,26",✗
+Antérieur à,BM25-Okapi,E21_Person,P103_was_intended_for,✗,0,"0,2398",✗
+Antérieur à,BM25-Okapi,E21_Person,P189_approximates,✗,0,"0,2134",✗
+Antérieur à,BM25-Okapi,E21_Person,P183_ends_before_the_start_of,✗,0,"0,1704",✗
+Antérieur à,BM25-Okapi,E21_Person,P7_took_place_at,✗,0,"0,1618",✗
+Antérieur à,BM25-Okapi,E21_Person,P156_occupies,✗,0,"0,1618",✗
+Antérieur à,BM25-Okapi,E21_Person,P152_has_parent,✗,0,"0,1597",✗
+Antérieur à,BM25-Okapi,E21_Person,P42_assigned,✗,0,"0,1489",✗
+Antérieur à,BM25-Okapi,E21_Person,P23_transferred_title_from,✗,0,"0,1461",✗
+Antérieur à,BM25-Okapi,E21_Person,P129_is_about,✗,0,"0,1451",✗
+Antérieur à,BM25-Okapi,E22_Human-Made_Object,P177_assigned_property_of_type,✗,0,"0,26",✗
+Antérieur à,BM25-Okapi,E22_Human-Made_Object,P103_was_intended_for,✗,0,"0,2398",✗
+Antérieur à,BM25-Okapi,E22_Human-Made_Object,P189_approximates,✗,0,"0,2134",✗
+Antérieur à,BM25-Okapi,E22_Human-Made_Object,P183_ends_before_the_start_of,✗,0,"0,1704",✗
+Antérieur à,BM25-Okapi,E22_Human-Made_Object,P7_took_place_at,✗,0,"0,1618",✗
+Antérieur à,BM25-Okapi,E22_Human-Made_Object,P156_occupies,✗,0,"0,1618",✗
+Antérieur à,BM25-Okapi,E22_Human-Made_Object,P152_has_parent,✗,0,"0,1597",✗
+Antérieur à,BM25-Okapi,E22_Human-Made_Object,P42_assigned,✗,0,"0,1489",✗
+Antérieur à,BM25-Okapi,E22_Human-Made_Object,P23_transferred_title_from,✗,0,"0,1461",✗
+Antérieur à,BM25-Okapi,E22_Human-Made_Object,P129_is_about,✗,0,"0,1451",✗
+Antérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P177_assigned_property_of_type,✗,0,"0,26",✗
+Antérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P103_was_intended_for,✗,0,"0,2398",✗
+Antérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P189_approximates,✗,0,"0,2134",✗
+Antérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P183_ends_before_the_start_of,✗,0,"0,1704",✗
+Antérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P7_took_place_at,✗,0,"0,1618",✗
+Antérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P156_occupies,✗,0,"0,1618",✗
+Antérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P152_has_parent,✗,0,"0,1597",✗
+Antérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P42_assigned,✗,0,"0,1489",✗
+Antérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P23_transferred_title_from,✗,0,"0,1461",✗
+Antérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P129_is_about,✗,0,"0,1451",✗
+Postérieur à,BM25-Okapi,E98_Currency,P177_assigned_property_of_type,✗,1,"0,26",✗
+Postérieur à,BM25-Okapi,E98_Currency,P103_was_intended_for,✓,1,"0,2398",✗
+Postérieur à,BM25-Okapi,E98_Currency,P189_approximates,✗,1,"0,2134",✗
+Postérieur à,BM25-Okapi,E98_Currency,P183_ends_before_the_start_of,✗,1,"0,1704",✗
+Postérieur à,BM25-Okapi,E98_Currency,P7_took_place_at,✗,1,"0,1618",✗
+Postérieur à,BM25-Okapi,E98_Currency,P156_occupies,✗,1,"0,1618",✗
+Postérieur à,BM25-Okapi,E98_Currency,P152_has_parent,✗,1,"0,1597",✗
+Postérieur à,BM25-Okapi,E98_Currency,P42_assigned,✗,1,"0,1489",✗
+Postérieur à,BM25-Okapi,E98_Currency,P23_transferred_title_from,✗,1,"0,1461",✗
+Postérieur à,BM25-Okapi,E98_Currency,P129_is_about,✗,1,"0,1451",✗
+Postérieur à,BM25-Okapi,E29_Design_or_Procedure,P177_assigned_property_of_type,✗,0,"0,26",✗
+Postérieur à,BM25-Okapi,E29_Design_or_Procedure,P103_was_intended_for,✗,0,"0,2398",✗
+Postérieur à,BM25-Okapi,E29_Design_or_Procedure,P189_approximates,✗,0,"0,2134",✗
+Postérieur à,BM25-Okapi,E29_Design_or_Procedure,P183_ends_before_the_start_of,✗,0,"0,1704",✗
+Postérieur à,BM25-Okapi,E29_Design_or_Procedure,P7_took_place_at,✗,0,"0,1618",✗
+Postérieur à,BM25-Okapi,E29_Design_or_Procedure,P156_occupies,✗,0,"0,1618",✗
+Postérieur à,BM25-Okapi,E29_Design_or_Procedure,P152_has_parent,✗,0,"0,1597",✗
+Postérieur à,BM25-Okapi,E29_Design_or_Procedure,P42_assigned,✗,0,"0,1489",✗
+Postérieur à,BM25-Okapi,E29_Design_or_Procedure,P23_transferred_title_from,✗,0,"0,1461",✗
+Postérieur à,BM25-Okapi,E29_Design_or_Procedure,P129_is_about,✗,0,"0,1451",✗
+Postérieur à,BM25-Okapi,E21_Person,P177_assigned_property_of_type,✗,0,"0,26",✗
+Postérieur à,BM25-Okapi,E21_Person,P103_was_intended_for,✗,0,"0,2398",✗
+Postérieur à,BM25-Okapi,E21_Person,P189_approximates,✗,0,"0,2134",✗
+Postérieur à,BM25-Okapi,E21_Person,P183_ends_before_the_start_of,✗,0,"0,1704",✗
+Postérieur à,BM25-Okapi,E21_Person,P7_took_place_at,✗,0,"0,1618",✗
+Postérieur à,BM25-Okapi,E21_Person,P156_occupies,✗,0,"0,1618",✗
+Postérieur à,BM25-Okapi,E21_Person,P152_has_parent,✗,0,"0,1597",✗
+Postérieur à,BM25-Okapi,E21_Person,P42_assigned,✗,0,"0,1489",✗
+Postérieur à,BM25-Okapi,E21_Person,P23_transferred_title_from,✗,0,"0,1461",✗
+Postérieur à,BM25-Okapi,E21_Person,P129_is_about,✗,0,"0,1451",✗
+Postérieur à,BM25-Okapi,E22_Human-Made_Object,P177_assigned_property_of_type,✗,0,"0,26",✗
+Postérieur à,BM25-Okapi,E22_Human-Made_Object,P103_was_intended_for,✗,0,"0,2398",✗
+Postérieur à,BM25-Okapi,E22_Human-Made_Object,P189_approximates,✗,0,"0,2134",✗
+Postérieur à,BM25-Okapi,E22_Human-Made_Object,P183_ends_before_the_start_of,✗,0,"0,1704",✗
+Postérieur à,BM25-Okapi,E22_Human-Made_Object,P7_took_place_at,✗,0,"0,1618",✗
+Postérieur à,BM25-Okapi,E22_Human-Made_Object,P156_occupies,✗,0,"0,1618",✗
+Postérieur à,BM25-Okapi,E22_Human-Made_Object,P152_has_parent,✗,0,"0,1597",✗
+Postérieur à,BM25-Okapi,E22_Human-Made_Object,P42_assigned,✗,0,"0,1489",✗
+Postérieur à,BM25-Okapi,E22_Human-Made_Object,P23_transferred_title_from,✗,0,"0,1461",✗
+Postérieur à,BM25-Okapi,E22_Human-Made_Object,P129_is_about,✗,0,"0,1451",✗
+Postérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P177_assigned_property_of_type,✗,0,"0,26",✗
+Postérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P103_was_intended_for,✗,0,"0,2398",✗
+Postérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P189_approximates,✗,0,"0,2134",✗
+Postérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P183_ends_before_the_start_of,✗,0,"0,1704",✗
+Postérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P7_took_place_at,✗,0,"0,1618",✗
+Postérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P156_occupies,✗,0,"0,1618",✗
+Postérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P152_has_parent,✗,0,"0,1597",✗
+Postérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P42_assigned,✗,0,"0,1489",✗
+Postérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P23_transferred_title_from,✗,0,"0,1461",✗
+Postérieur à,BM25-Okapi,E24_Physical_Human-Made_Thing,P129_is_about,✗,0,"0,1451",✗
+Egal à ,BM25-Okapi,E99_Product_Type,P177_assigned_property_of_type,✗,,"0,26",✗
+Egal à ,BM25-Okapi,E99_Product_Type,P103_was_intended_for,✓,,"0,2398",✗
+Egal à ,BM25-Okapi,E99_Product_Type,P189_approximates,✗,,"0,2134",✗
+Egal à ,BM25-Okapi,E99_Product_Type,P183_ends_before_the_start_of,✗,,"0,1704",✗
+Egal à ,BM25-Okapi,E99_Product_Type,P7_took_place_at,✗,,"0,1618",✗
+Egal à ,BM25-Okapi,E99_Product_Type,P156_occupies,✗,,"0,1618",✗
+Egal à ,BM25-Okapi,E99_Product_Type,P152_has_parent,✗,,"0,1597",✗
+Egal à ,BM25-Okapi,E99_Product_Type,P42_assigned,✗,,"0,1489",✗
+Egal à ,BM25-Okapi,E99_Product_Type,P23_transferred_title_from,✗,,"0,1461",✗
+Egal à ,BM25-Okapi,E99_Product_Type,P129_is_about,✗,,"0,1451",✗
+Egal à ,BM25-Okapi,E19_Physical_Object,P177_assigned_property_of_type,✗,,"0,26",✗
+Egal à ,BM25-Okapi,E19_Physical_Object,P103_was_intended_for,✗,,"0,2398",✗
+Egal à ,BM25-Okapi,E19_Physical_Object,P189_approximates,✗,,"0,2134",✗
+Egal à ,BM25-Okapi,E19_Physical_Object,P183_ends_before_the_start_of,✗,,"0,1704",✗
+Egal à ,BM25-Okapi,E19_Physical_Object,P7_took_place_at,✗,,"0,1618",✗
+Egal à ,BM25-Okapi,E19_Physical_Object,P156_occupies,✗,,"0,1618",✗
+Egal à ,BM25-Okapi,E19_Physical_Object,P152_has_parent,✗,,"0,1597",✗
+Egal à ,BM25-Okapi,E19_Physical_Object,P42_assigned,✗,,"0,1489",✗
+Egal à ,BM25-Okapi,E19_Physical_Object,P23_transferred_title_from,✗,,"0,1461",✗
+Egal à ,BM25-Okapi,E19_Physical_Object,P129_is_about,✗,,"0,1451",✗
+Egal à ,BM25-Okapi,E21_Person,P177_assigned_property_of_type,✗,,"0,26",✗
+Egal à ,BM25-Okapi,E21_Person,P103_was_intended_for,✗,,"0,2398",✗
+Egal à ,BM25-Okapi,E21_Person,P189_approximates,✗,,"0,2134",✗
+Egal à ,BM25-Okapi,E21_Person,P183_ends_before_the_start_of,✗,,"0,1704",✗
+Egal à ,BM25-Okapi,E21_Person,P7_took_place_at,✗,,"0,1618",✗
+Egal à ,BM25-Okapi,E21_Person,P156_occupies,✗,,"0,1618",✗
+Egal à ,BM25-Okapi,E21_Person,P152_has_parent,✗,,"0,1597",✗
+Egal à ,BM25-Okapi,E21_Person,P42_assigned,✗,,"0,1489",✗
+Egal à ,BM25-Okapi,E21_Person,P23_transferred_title_from,✗,,"0,1461",✗
+Egal à ,BM25-Okapi,E21_Person,P129_is_about,✗,,"0,1451",✗
+Egal à ,BM25-Okapi,E22_Human-Made_Object,P177_assigned_property_of_type,✗,,"0,26",✗
+Egal à ,BM25-Okapi,E22_Human-Made_Object,P103_was_intended_for,✗,,"0,2398",✗
+Egal à ,BM25-Okapi,E22_Human-Made_Object,P189_approximates,✗,,"0,2134",✗
+Egal à ,BM25-Okapi,E22_Human-Made_Object,P183_ends_before_the_start_of,✗,,"0,1704",✗
+Egal à ,BM25-Okapi,E22_Human-Made_Object,P7_took_place_at,✗,,"0,1618",✗
+Egal à ,BM25-Okapi,E22_Human-Made_Object,P156_occupies,✗,,"0,1618",✗
+Egal à ,BM25-Okapi,E22_Human-Made_Object,P152_has_parent,✗,,"0,1597",✗
+Egal à ,BM25-Okapi,E22_Human-Made_Object,P42_assigned,✗,,"0,1489",✗
+Egal à ,BM25-Okapi,E22_Human-Made_Object,P23_transferred_title_from,✗,,"0,1461",✗
+Egal à ,BM25-Okapi,E22_Human-Made_Object,P129_is_about,✗,,"0,1451",✗
+Egal à ,BM25-Okapi,E24_Physical_Human-Made_Thing,P177_assigned_property_of_type,✗,,"0,26",✗
+Egal à ,BM25-Okapi,E24_Physical_Human-Made_Thing,P103_was_intended_for,✗,,"0,2398",✗
+Egal à ,BM25-Okapi,E24_Physical_Human-Made_Thing,P189_approximates,✗,,"0,2134",✗
+Egal à ,BM25-Okapi,E24_Physical_Human-Made_Thing,P183_ends_before_the_start_of,✗,,"0,1704",✗
+Egal à ,BM25-Okapi,E24_Physical_Human-Made_Thing,P7_took_place_at,✗,,"0,1618",✗
+Egal à ,BM25-Okapi,E24_Physical_Human-Made_Thing,P156_occupies,✗,,"0,1618",✗
+Egal à ,BM25-Okapi,E24_Physical_Human-Made_Thing,P152_has_parent,✗,,"0,1597",✗
+Egal à ,BM25-Okapi,E24_Physical_Human-Made_Thing,P42_assigned,✗,,"0,1489",✗
+Egal à ,BM25-Okapi,E24_Physical_Human-Made_Thing,P23_transferred_title_from,✗,,"0,1461",✗
+Egal à ,BM25-Okapi,E24_Physical_Human-Made_Thing,P129_is_about,✗,,"0,1451",✗
+Etat,BM25-Okapi,E99_Product_Type,P177_assigned_property_of_type,✗,,"0,26",✗
+Etat,BM25-Okapi,E99_Product_Type,P103_was_intended_for,✓,,"0,2398",✗
+Etat,BM25-Okapi,E99_Product_Type,P189_approximates,✗,,"0,2134",✗
+Etat,BM25-Okapi,E99_Product_Type,P183_ends_before_the_start_of,✗,,"0,1704",✗
+Etat,BM25-Okapi,E99_Product_Type,P7_took_place_at,✗,,"0,1618",✗
+Etat,BM25-Okapi,E99_Product_Type,P156_occupies,✗,,"0,1618",✗
+Etat,BM25-Okapi,E99_Product_Type,P152_has_parent,✗,,"0,1597",✗
+Etat,BM25-Okapi,E99_Product_Type,P42_assigned,✗,,"0,1489",✗
+Etat,BM25-Okapi,E99_Product_Type,P23_transferred_title_from,✗,,"0,1461",✗
+Etat,BM25-Okapi,E99_Product_Type,P129_is_about,✗,,"0,1451",✗
+Etat,BM25-Okapi,E19_Physical_Object,P177_assigned_property_of_type,✗,,"0,26",✗
+Etat,BM25-Okapi,E19_Physical_Object,P103_was_intended_for,✗,,"0,2398",✗
+Etat,BM25-Okapi,E19_Physical_Object,P189_approximates,✗,,"0,2134",✗
+Etat,BM25-Okapi,E19_Physical_Object,P183_ends_before_the_start_of,✗,,"0,1704",✗
+Etat,BM25-Okapi,E19_Physical_Object,P7_took_place_at,✗,,"0,1618",✗
+Etat,BM25-Okapi,E19_Physical_Object,P156_occupies,✗,,"0,1618",✗
+Etat,BM25-Okapi,E19_Physical_Object,P152_has_parent,✗,,"0,1597",✗
+Etat,BM25-Okapi,E19_Physical_Object,P42_assigned,✗,,"0,1489",✗
+Etat,BM25-Okapi,E19_Physical_Object,P23_transferred_title_from,✗,,"0,1461",✗
+Etat,BM25-Okapi,E19_Physical_Object,P129_is_about,✗,,"0,1451",✗
+Etat,BM25-Okapi,E21_Person,P177_assigned_property_of_type,✗,,"0,26",✗
+Etat,BM25-Okapi,E21_Person,P103_was_intended_for,✗,,"0,2398",✗
+Etat,BM25-Okapi,E21_Person,P189_approximates,✗,,"0,2134",✗
+Etat,BM25-Okapi,E21_Person,P183_ends_before_the_start_of,✗,,"0,1704",✗
+Etat,BM25-Okapi,E21_Person,P7_took_place_at,✗,,"0,1618",✗
+Etat,BM25-Okapi,E21_Person,P156_occupies,✗,,"0,1618",✗
+Etat,BM25-Okapi,E21_Person,P152_has_parent,✗,,"0,1597",✗
+Etat,BM25-Okapi,E21_Person,P42_assigned,✗,,"0,1489",✗
+Etat,BM25-Okapi,E21_Person,P23_transferred_title_from,✗,,"0,1461",✗
+Etat,BM25-Okapi,E21_Person,P129_is_about,✗,,"0,1451",✗
+Etat,BM25-Okapi,E22_Human-Made_Object,P177_assigned_property_of_type,✗,,"0,26",✗
+Etat,BM25-Okapi,E22_Human-Made_Object,P103_was_intended_for,✗,,"0,2398",✗
+Etat,BM25-Okapi,E22_Human-Made_Object,P189_approximates,✗,,"0,2134",✗
+Etat,BM25-Okapi,E22_Human-Made_Object,P183_ends_before_the_start_of,✗,,"0,1704",✗
+Etat,BM25-Okapi,E22_Human-Made_Object,P7_took_place_at,✗,,"0,1618",✗
+Etat,BM25-Okapi,E22_Human-Made_Object,P156_occupies,✗,,"0,1618",✗
+Etat,BM25-Okapi,E22_Human-Made_Object,P152_has_parent,✗,,"0,1597",✗
+Etat,BM25-Okapi,E22_Human-Made_Object,P42_assigned,✗,,"0,1489",✗
+Etat,BM25-Okapi,E22_Human-Made_Object,P23_transferred_title_from,✗,,"0,1461",✗
+Etat,BM25-Okapi,E22_Human-Made_Object,P129_is_about,✗,,"0,1451",✗
+Etat,BM25-Okapi,E24_Physical_Human-Made_Thing,P177_assigned_property_of_type,✗,,"0,26",✗
+Etat,BM25-Okapi,E24_Physical_Human-Made_Thing,P103_was_intended_for,✗,,"0,2398",✗
+Etat,BM25-Okapi,E24_Physical_Human-Made_Thing,P189_approximates,✗,,"0,2134",✗
+Etat,BM25-Okapi,E24_Physical_Human-Made_Thing,P183_ends_before_the_start_of,✗,,"0,1704",✗
+Etat,BM25-Okapi,E24_Physical_Human-Made_Thing,P7_took_place_at,✗,,"0,1618",✗
+Etat,BM25-Okapi,E24_Physical_Human-Made_Thing,P156_occupies,✗,,"0,1618",✗
+Etat,BM25-Okapi,E24_Physical_Human-Made_Thing,P152_has_parent,✗,,"0,1597",✗
+Etat,BM25-Okapi,E24_Physical_Human-Made_Thing,P42_assigned,✗,,"0,1489",✗
+Etat,BM25-Okapi,E24_Physical_Human-Made_Thing,P23_transferred_title_from,✗,,"0,1461",✗
+Etat,BM25-Okapi,E24_Physical_Human-Made_Thing,P129_is_about,✗,,"0,1451",✗
+Mortier,BM25-Okapi,E19_Physical_Object,P14_carried_out_by,✗,"0,6607","0,2686",✗
+Mortier,BM25-Okapi,E19_Physical_Object,P62_depicts,✓,"0,6607","0,2435",✗
+Mortier,BM25-Okapi,E19_Physical_Object,P177_assigned_property_of_type,✗,"0,6607","0,232",✗
+Mortier,BM25-Okapi,E19_Physical_Object,P69_has_association_with,✗,"0,6607","0,2255",✗
+Mortier,BM25-Okapi,E19_Physical_Object,P103_was_intended_for,✗,"0,6607","0,214",✗
+Mortier,BM25-Okapi,E19_Physical_Object,P138_represents,✗,"0,6607","0,2077",✗
+Mortier,BM25-Okapi,E19_Physical_Object,P189_approximates,✗,"0,6607","0,1904",✗
+Mortier,BM25-Okapi,E19_Physical_Object,P183_ends_before_the_start_of,✗,"0,6607","0,1521",✗
+Mortier,BM25-Okapi,E19_Physical_Object,P7_took_place_at,✗,"0,6607","0,1444",✗
+Mortier,BM25-Okapi,E19_Physical_Object,P156_occupies,✗,"0,6607","0,1444",✗
+Mortier,BM25-Okapi,E81_Transformation,P14_carried_out_by,✗,"0,5357","0,2686",✗
+Mortier,BM25-Okapi,E81_Transformation,P62_depicts,✓,"0,5357","0,2435",✗
+Mortier,BM25-Okapi,E81_Transformation,P177_assigned_property_of_type,✗,"0,5357","0,232",✗
+Mortier,BM25-Okapi,E81_Transformation,P69_has_association_with,✗,"0,5357","0,2255",✗
+Mortier,BM25-Okapi,E81_Transformation,P103_was_intended_for,✗,"0,5357","0,214",✗
+Mortier,BM25-Okapi,E81_Transformation,P138_represents,✗,"0,5357","0,2077",✗
+Mortier,BM25-Okapi,E81_Transformation,P189_approximates,✗,"0,5357","0,1904",✗
+Mortier,BM25-Okapi,E81_Transformation,P183_ends_before_the_start_of,✗,"0,5357","0,1521",✗
+Mortier,BM25-Okapi,E81_Transformation,P7_took_place_at,✗,"0,5357","0,1444",✗
+Mortier,BM25-Okapi,E81_Transformation,P156_occupies,✗,"0,5357","0,1444",✗
+Mortier,BM25-Okapi,E77_Persistent_Item,P14_carried_out_by,✗,"0,5258","0,2686",✗
+Mortier,BM25-Okapi,E77_Persistent_Item,P62_depicts,✓,"0,5258","0,2435",✗
+Mortier,BM25-Okapi,E77_Persistent_Item,P177_assigned_property_of_type,✗,"0,5258","0,232",✗
+Mortier,BM25-Okapi,E77_Persistent_Item,P69_has_association_with,✗,"0,5258","0,2255",✗
+Mortier,BM25-Okapi,E77_Persistent_Item,P103_was_intended_for,✗,"0,5258","0,214",✗
+Mortier,BM25-Okapi,E77_Persistent_Item,P138_represents,✗,"0,5258","0,2077",✗
+Mortier,BM25-Okapi,E77_Persistent_Item,P189_approximates,✗,"0,5258","0,1904",✗
+Mortier,BM25-Okapi,E77_Persistent_Item,P183_ends_before_the_start_of,✗,"0,5258","0,1521",✗
+Mortier,BM25-Okapi,E77_Persistent_Item,P7_took_place_at,✗,"0,5258","0,1444",✗
+Mortier,BM25-Okapi,E77_Persistent_Item,P156_occupies,✗,"0,5258","0,1444",✗
+Mortier,BM25-Okapi,E18_Physical_Thing,P14_carried_out_by,✗,0,"0,2686",✗
+Mortier,BM25-Okapi,E18_Physical_Thing,P62_depicts,✓,0,"0,2435",✗
+Mortier,BM25-Okapi,E18_Physical_Thing,P177_assigned_property_of_type,✗,0,"0,232",✗
+Mortier,BM25-Okapi,E18_Physical_Thing,P69_has_association_with,✗,0,"0,2255",✗
+Mortier,BM25-Okapi,E18_Physical_Thing,P103_was_intended_for,✗,0,"0,214",✗
+Mortier,BM25-Okapi,E18_Physical_Thing,P138_represents,✗,0,"0,2077",✗
+Mortier,BM25-Okapi,E18_Physical_Thing,P189_approximates,✗,0,"0,1904",✗
+Mortier,BM25-Okapi,E18_Physical_Thing,P183_ends_before_the_start_of,✗,0,"0,1521",✗
+Mortier,BM25-Okapi,E18_Physical_Thing,P7_took_place_at,✗,0,"0,1444",✗
+Mortier,BM25-Okapi,E18_Physical_Thing,P156_occupies,✗,0,"0,1444",✗
+Mortier,BM25-Okapi,E20_Biological_Object,P14_carried_out_by,✗,0,"0,2686",✗
+Mortier,BM25-Okapi,E20_Biological_Object,P62_depicts,✓,0,"0,2435",✗
+Mortier,BM25-Okapi,E20_Biological_Object,P177_assigned_property_of_type,✗,0,"0,232",✗
+Mortier,BM25-Okapi,E20_Biological_Object,P69_has_association_with,✗,0,"0,2255",✗
+Mortier,BM25-Okapi,E20_Biological_Object,P103_was_intended_for,✗,0,"0,214",✗
+Mortier,BM25-Okapi,E20_Biological_Object,P138_represents,✗,0,"0,2077",✗
+Mortier,BM25-Okapi,E20_Biological_Object,P189_approximates,✗,0,"0,1904",✗
+Mortier,BM25-Okapi,E20_Biological_Object,P183_ends_before_the_start_of,✗,0,"0,1521",✗
+Mortier,BM25-Okapi,E20_Biological_Object,P7_took_place_at,✗,0,"0,1444",✗
+Mortier,BM25-Okapi,E20_Biological_Object,P156_occupies,✗,0,"0,1444",✗

@@ -1,0 +1,22 @@
+Column,Model,Class_Code,Prop_Code,Valid,Class_Score,Prop_Score,Accept
+n° US,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P1_is_identified_by,✓,"0,4832","0,571",✓
+n° US,paraphrase-multilingual-mpnet-base-v2,E35_Title,P1_is_identified_by,✓,"0,4331","0,571",✓
+Localisation,paraphrase-multilingual-mpnet-base-v2,E53_Place,P53_has_former_or_current_location,✓,"0,4864","0,5826",✓
+Etendue,paraphrase-multilingual-mpnet-base-v2,E53_Place,P156_occupies,✓,"0,4116","0,5551",✓
+Etendue,paraphrase-multilingual-mpnet-base-v2,E92_Spacetime_Volume,P196_defines,✓,"0,394","0,5564",✓
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E42_Identifier,P1_is_identified_by,✓,"0,4442","0,5527",✓
+Antérieur à,paraphrase-multilingual-mpnet-base-v2,E35_Title,P1_is_identified_by,✓,"0,4095","0,5527",✓
+Etat,paraphrase-multilingual-mpnet-base-v2,E3_Condition_State,P44_has_condition,✓,"0,4808","0,5432",✓
+Mortier,paraphrase-multilingual-mpnet-base-v2,E24_Physical_Human-Made_Thing,P46_is_composed_of,✓,"0,3857","0,527",✓
+Mortier,paraphrase-multilingual-mpnet-base-v2,E57_Material,P45_consists_of,✓,"0,3826","0,5793",✓
+Mortier,paraphrase-multilingual-mpnet-base-v2,E19_Physical_Object,P46_is_composed_of,✓,"0,3628","0,527",✓
+Mortier,paraphrase-multilingual-mpnet-base-v2,E18_Physical_Thing,P46_is_composed_of,✓,"0,3478","0,527",✓
+n° US,LaBSE,E42_Identifier,P48_has_preferred_identifier,✓,"0,4053","0,5219",✓
+Localisation,LaBSE,E53_Place,P53_has_former_or_current_location,✓,"0,3302","0,4384",✓
+Antérieur à,LaBSE,E42_Identifier,P48_has_preferred_identifier,✓,"0,3043","0,4528",✓
+Postérieur à,LaBSE,E42_Identifier,P48_has_preferred_identifier,✓,"0,3177","0,4985",✓
+Etat,LaBSE,E3_Condition_State,P44_has_condition,✓,"0,4537","0,5082",✓
+Antérieur à,all-mpnet-base-v2,E42_Identifier,P128_carries,✓,"0,418","0,4596",✓
+Postérieur à,all-mpnet-base-v2,E41_Appellation,P128_carries,✓,"0,4034","0,5184",✓
+Postérieur à,all-mpnet-base-v2,E41_Appellation,P1_is_identified_by,✓,"0,4034","0,4982",✓
+Mortier,all-mpnet-base-v2,E18_Physical_Thing,P46_is_composed_of,✓,"0,2571","0,4107",✓
