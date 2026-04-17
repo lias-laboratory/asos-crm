@@ -45,6 +45,9 @@ The benchmark is conducted on the **Stratigraphic units list** dataset (*liste d
  
 Bold = selected model.
 
+Full candidate-level results: [`Benchmark_Result.csv`](Benchmark_Result.csv)
+ 
+Accepted triplets: [`Benchmark_Result_Accepted.csv`](Benchmark_Result_Accepted.csv)
 
 ## Discussion
  
