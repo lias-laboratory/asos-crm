@@ -31,12 +31,12 @@ asos-crm/
 ├── docs/
 │   ├── EMBEDDING_BENCHMARK.md        # Full embedding model benchmark results
 │   └── CARBON_EMISSIONS.md           # LLM inference carbon footprint measurements
-├── Experiment/
+├── experiment/
 │   └── asos_crm_pipeline.ipynb       # Main experiment notebook (see below)
 ├── results/                          # Pipeline outputs (generated at runtime)
 ├── AUTHORS
 ├── LICENSE
-└── Readme.md
+└── README.md
 ```
 
 
@@ -85,7 +85,7 @@ INPUT_CSV_FILES = ["../data/input/your_dataset.csv"]
 No installation step is required. Open the notebook directly:
  
 ```
-Experiment/asos_crm_pipeline.ipynb
+experiment/asos_crm_pipeline.ipynb
 ```
  
 1. Place your input CSV files in `data/input/`.
